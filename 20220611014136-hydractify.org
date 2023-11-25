@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5808bb59-52cf-4ab6-a2fa-48b268362f86
+:END:
+#+title: Hydractify
+#+filetags: :reference:
+* Overview
+Hydractify is the organization founded by me alongside SpaceEEC to accommodate a platform for our project, Kanna Kobayashi.

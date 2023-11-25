@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       8fd76d5d-cd11-4e16-aa76-f174b4c5a291
+:END:
+#+title: 2021-11-11
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The friends I have.
+** What do you want today's highlight to be?
+Work on Ixtus.
+** What's on your mind?
+Man... I suck. Like, for real, what makes me happy is making others happy... Yet I fucking failed, with a friend even.
+Talking about Chris specifically and the project he is *paying* me to do, like, what the fuck Alex!?
+* Tasks [0%]
+- [ ] Ixtus
+  - [ ] Finish up login endpoint.
+  - [ ] Start ocurrence registration endpoint.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:45 | 13:10 - 14:17 | 18:30 | + 00:37 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

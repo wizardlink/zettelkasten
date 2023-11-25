@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       64d09efb-04f7-4f90-8308-294c318698e0
+:END:
+#+title: NovelAI - amazing ai art and story generation
+#+filetags: :artificial inteligence:tool:daily:anime:
+
+* [[https://novelai.net/][NovelAI]]
+This tool is *ridiculous* at making good anime art, I want to fiddle around with it some other time.

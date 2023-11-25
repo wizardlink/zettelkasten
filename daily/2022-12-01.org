@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       03232e5b-7aee-42e7-a72f-0f72ba7b662d
+:END:
+#+title: 2022-12-01
+#+filetags: :daily:
+
+* Tasks
+** DONE Grocery shopping
+DEADLINE: <2022-12-01 Thu 12:00>
+*** 2L Coke
+*** Lunch
+** DONE Finish my bug related to too many actions in accessories
+DEADLINE: <2022-12-01 Thu 11:00>
+** DONE Create and fix a bug related to missing resource
+DEADLINE: <2022-12-01 Thu 11:00>
+*** Make sure it wasn't fixed in ~origin/main~
+** DONE Talk to Lucas about the presentation of bugs tomorrow
+DEADLINE: <2022-12-01 Thu 17:00>
+*** Prepare slides using ~org-reveal~
+* Input
+* Output
+* Morning Journal
+** What are you grateful for?
+The opportunities I've had so far in my life.
+** What do you want today's highlight to be?
+To finish the day with a sense of accomplishment.
+** What's on your mind?
+I feel like I'm starting to understand where to aim and move forward with my life, but it won't be something that will change in a day's work - soon enough however I should feel comfortable with it.

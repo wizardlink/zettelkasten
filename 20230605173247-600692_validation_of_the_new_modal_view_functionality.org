@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       49818613-2ca9-4456-97a1-19359723aea8
+:END:
+#+title: 600692 - Validation of the new Modal view functionality
+#+filetags: :cyncly:work:
+
+* Notifications
+** Bugs [2/3]
+- [-] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/594690][594690]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/599375][599375]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/597864][597864]]
+** Features
+These are only non-architectural user stories.
+
+- [ ] [WIP] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595660][As a System, I want to re-evaluate design rules when I undo/redo]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595647][As a User, I want pedagogical messages to disappear when I fix them]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595636][As a User, I want to be able to click on a message notification toast that takes me to the messages palette]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595832][As a User, I want to be able to see all available notifications in the messages palette]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595644][As a User, I want to be able to select a module from the messages palette]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/595646][As a User, I want to know how many and which notifications I already read]]
+- [X] [[https://dev.azure.com/2020Development/IS7/_workitems/edit/598033][As an application, I want to have access the the modal pedagogical message view using a feature flag]]
+  This will be undone soon.
+** Problems
+*** [[https://dev.azure.com/2020Development/IS7/_workitems/edit/594690][594690]]
+When adding a cabinet in the corner, adding a door then moving it out of the corner and back, we get two notifications instead of one. This bug was specific to a problem where when the user moved the cabinet at all it would trigger a new message, but there are edge cases like these still.
+* Design rules
+** /addProduct/
+*** Items [0/2]
+- [-] ~cabinetTooTallCheckRoomHeight~
+- [-] ~cabinetWithDoorsCheckWallProximity~
+*** Problems
+**** ~cabinetTooTallCheckRoomHeight~
+The notification shown has a mustache tag that was not handled.
+
+[[/mnt/internal/personal/screenshots/2023-06-05_17-38-20.png]]
+**** ~cabinetWithDoorsCheckWallProximity~
+This is not being triggered, the rule exists for ~addProduct~ and ~addAccessory~, with only the latter working.
+** /addAccessory/
+*** Items [8/9]
+- [X] ~wardrobeBarCheckSceneAdd~
+- [X] ~organizerHookSceneAdd~
+- [X] ~drawerTooFarAwayFromGround~
+- [X] ~slidingDoorCloseCeiling~
+- [X] ~slidingDoorNoBaseboard~
+- [X] ~slidingDoorBaseboardRemoved~
+- [X] ~slidingDoorOnAddWardrobeBar~
+- [-] ~cabinetDoorSizeDifference~
+- [X] ~cabinetWithDoorsCheckWallProximity~
+*** Problems
+**** ~cabinetDoorSizeDifference~
+There are bugs open related to this:
+
+1. [[https://dev.azure.com/2020Development/IS7/_workitems/edit/598854/][598854]]
+2. [[https://dev.azure.com/2020Development/IS7/_workitems/edit/598034/][598034]]
+3. [[https://dev.azure.com/2020Development/IS7/_workitems/edit/598006/][598006]]
+** /onItemStyleChanged/
+*** Items [3/3]
+- [X] ~cabinetPlinthRemoved~
+- [X] ~cabinetPlinthAdded~
+- [X] ~cabinetPlinthColliding~

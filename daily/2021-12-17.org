@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       1b53d94d-eadc-41ae-afb1-92a819db282a
+:END:
+#+title: 2021-12-17
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My perception of the things in front of me.
+** What do you want today's highlight to be?
+To have fun!
+** What's on your mind?
+Man I gotta code more. :(
+* DONE Tasks
+- [X] Create a new agency in PNCP
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:15 | 12:14 - 13:20 | 17:00 |  -00:21 |
+
+Tried to create the new agency but ends up that we need to enter in contact with the maintainers of the platform as the error isn't descriptive whatsoever.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

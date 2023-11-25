@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c992d176-f469-42f3-ae8a-09c5dc3514f8
+:END:
+#+title: Yofukashi no Uta
+#+filetags: :anime:
+* References
+- [[id:b4f9d25f-436c-45c6-976c-a1f522275951][Anime]]
+
+* TODO Overview
+* Links
+- [[https://anilist.co/anime/141391/Yofukashi-no-Uta/][Anime]]
+- [[https://anilist.co/anime/150583/Yofukashi-no-Uta-Mini/][ONA]]
+- [[https://anilist.co/manga/111233/Yofukashi-no-Uta/][Manga]]

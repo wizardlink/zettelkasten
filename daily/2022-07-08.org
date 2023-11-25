@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       32f987b0-e541-4a37-a3ba-43350c4ecaaa
+:END:
+#+title: 2022-07-08
+#+filetags: :daily:appointment:
+
+* Morning Journal
+** What are you grateful for?
+My creativity which is powered by my knowledge, it creates some... Crazy events.
+** What do you want today's highlight to be?
+I want to mess with some Rust, the very little I touched seemed to fun, mostly due to it's integration with my editor.
+** What's on your mind?
+The [[id:50e0113d-aaeb-419c-a010-f9f973942883][dream]] I had was... Insane, I am still in awe and mesmerized by how great it was, I wish I could put this into paper, draw it off.
+* Tasks
+** KILL Appointment with Dr. Sandra Xavier (Psychologist)
+- SCHEDULED: [2022-07-08 Fri 16:30]
+
+Unfortunately this was canceled due to a change in policies with the insurance companies.
+* Input
+* Output
+** [[id:50e0113d-aaeb-419c-a010-f9f973942883][A day when a solar flare erupted to reach all planets in it's reach]]
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

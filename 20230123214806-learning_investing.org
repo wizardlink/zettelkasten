@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2ed5eb8c-edad-4ca2-9627-a1fd21df6ece
+:END:
+#+title: Learning investing
+
+* Videos
+** [[youtube:IBCMF2sehuo][Charlie Munger: How to Invest During a Recession]]
+** [[youtube:7_woRSpZrHw][How I turned $300 to $100,000 At 19 (My Side Hustles)]]

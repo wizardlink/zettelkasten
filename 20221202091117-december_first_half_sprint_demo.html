@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>December first half sprint demo</title>
+<meta name="author" content="Alexandre Cavalheiro S. Tiago da Silva"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/night.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://cdn.jsdelivr.net/npm/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Missing French i18n</h2>
+</section>
+<section id="sec-table-of-contents"><div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#/slide-org351a78d">1. Overview</a></li>
+<li><a href="#/slide-org66f1dc2">2. The adaptations made</a>
+<ul>
+<li><a href="#/slide-org5cfae2c">2.1. New helper script</a></li>
+</ul>
+</li>
+<li><a href="#/slide-org5ea86b5">3. New defaults</a>
+<ul>
+<li><a href="#/slide-orge9a963a">3.1. Dimension defaults</a></li>
+<li><a href="#/slide-orgeccad82">3.2. Measurement defaults</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-org351a78d">
+<h2 id="org351a78d"><span class="section-number-2">1.</span> Overview</h2>
+<p>
+Main goals of bug <a href="https://dev.azure.com/2020Development/IS7/_workitems/edit/501039/">501039</a>:
+</p>
+<ol>
+<li data-fragment-index="1" class="fragment roll-in">Find text yet to be translated;</li>
+<li data-fragment-index="2" class="fragment roll-in">Execute necessary adaptations for proper translation;</li>
+<li data-fragment-index="3" class="fragment roll-in">Add the missing resources.</li>
+
+</ol>
+
+</section>
+</section>
+<section>
+<section id="slide-org66f1dc2">
+<h2 id="org66f1dc2"><span class="section-number-2">2.</span> The adaptations made</h2>
+<p>
+To reach this goal we&rsquo;ve touched:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Files</th>
+<th scope="col" class="org-right">Added</th>
+<th scope="col" class="org-right">Deleted</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">30</td>
+<td class="org-right">809</td>
+<td class="org-right">567</td>
+</tr>
+
+<tr>
+<td class="org-right">9</td>
+<td class="org-right">689</td>
+<td class="org-right">625</td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-right">31</td>
+<td class="org-right">31</td>
+</tr>
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-right">28</td>
+<td class="org-right">33</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+For a total of <b>47</b> files modified, with <b>1557</b> additions and <b>1256</b> deletions.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-org5cfae2c">
+<h3 id="org5cfae2c"><span class="section-number-3">2.1.</span> New helper script</h3>
+<p>
+<code>yarn checkLocalization</code>
+</p>
+
+<div class="org-src-container">
+
+<pre  class="src src-diff"   ><code trim><span style="color: #8be9fd;">--- </span><span style="color: #61bfff;">a/pacakge.json</span>
+<span style="color: #8be9fd;">+++ </span><span style="color: #61bfff;">b/package.json</span>
+<span style="color: #bd93f9;">@@ -5,7 +5,8 @@</span>
+<span style="color: #aa2222; background-color: #44475a;">-</span><span style="color: #ff5555; background-color: #44475a;">    "test": "nx test"</span>
+<span style="color: #22aa22; background-color: #1E2029;">+</span><span style="color: #50fa7b; background-color: #1E2029;">    "test": "nx test",</span>
+<span style="color: #22aa22; background-color: #1E2029;">+</span><span style="color: #50fa7b; background-color: #1E2029;">    "checkLocalization": "cd util; node ./comparative.cjs"</span>
+
+</code></pre>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org5ea86b5">
+<h2 id="org5ea86b5"><span class="section-number-2">3.</span> New defaults</h2>
+<p>
+Now that we have that out of the way&#x2026;
+</p>
+
+<p>
+With these changes we&rsquo;ve also fixed bug <a href="https://dev.azure.com/2020Development/IS7/_workitems/edit/496864/">496864</a>
+</p>
+
+<p>
+We had some inconsistencies with dimensions across the project, both in English and French - some instances we had width, others length, others we had width in place of depth.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orge9a963a">
+<h3 id="orge9a963a"><span class="section-number-3">3.1.</span> Dimension defaults</h3>
+<div class="org-src-container">
+
+<pre  class="src src-json"   ><code trim>{
+  <span style="color: #ff79c6;">"dimensionDefaults"</span>: {
+    <span style="color: #ff79c6;">"depth"</span>: {
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"D"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Depth"</span>
+    },
+    <span style="color: #ff79c6;">"height"</span>: {
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"H"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Height"</span>
+    },
+    <span style="color: #ff79c6;">"width"</span>: {
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"W"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Width"</span>
+    }
+  }
+}
+</code></pre>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orgeccad82">
+<h3 id="orgeccad82"><span class="section-number-3">3.2.</span> Measurement defaults</h3>
+<div class="org-src-container">
+
+<pre  class="src src-json"   ><code trim>{
+  <span style="color: #ff79c6;">"measurementDefaults"</span>: {
+    <span style="color: #ff79c6;">"centimeter"</span>: {
+      <span style="color: #ff79c6;">"plural"</span>: <span style="color: #f1fa8c;">"Centimeters"</span>,
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"cm"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Centimeter"</span>
+    },
+    <span style="color: #ff79c6;">"foot"</span>: {
+      <span style="color: #ff79c6;">"plural"</span>: <span style="color: #f1fa8c;">"Feet"</span>,
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"ft"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Foot"</span>
+    },
+    <span style="color: #ff79c6;">"inch"</span>: {
+      <span style="color: #ff79c6;">"plural"</span>: <span style="color: #f1fa8c;">"Inches"</span>,
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"in"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Inch"</span>
+    },
+    <span style="color: #ff79c6;">"meter"</span>: {
+      <span style="color: #ff79c6;">"plural"</span>: <span style="color: #f1fa8c;">"Meters"</span>,
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"m"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Meter"</span>
+    },
+    <span style="color: #ff79c6;">"millimeter"</span>: {
+      <span style="color: #ff79c6;">"plural"</span>: <span style="color: #f1fa8c;">"Millimeters"</span>,
+      <span style="color: #ff79c6;">"shorthand"</span>: <span style="color: #f1fa8c;">"mm"</span>,
+      <span style="color: #ff79c6;">"spoken"</span>: <span style="color: #f1fa8c;">"Millimeter"</span>
+    }
+  }
+}
+</code></pre>
+</div>
+</section>
+</section>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+width:1400, height:1000, margin: 0.1, minScale:0.2, maxScale:2.5, transition:'convex',
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+]
+
+});
+
+</script>
+</body>
+</html>

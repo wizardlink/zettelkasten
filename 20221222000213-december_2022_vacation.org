@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       f758aaea-6af2-4401-b436-48cd47d5e93f
+:END:
+#+title: December 2022 vacation
+#+filetags: :vacation:
+
+This might be very... Demanding and I am asking a lot from myself in such a short time span but... It's important to take the first steps so that's all that matters, if I don't finish it now, I will finish it after - no need to rush or put pressure on myself, it will get nowhere if I do.
+
+* What's happening
+I have *two* weeks of vacation, from the 19th of December to the 2nd of January of 2023, during this meantime I want to get some much needed rest but also to work on much needed problems.
+* What do I want to do?
+** To reform my living space
+So currently because my dad decided to remove the ceiling and break everything... There's an ABSURD amount of dust, I need to work on that. I also need it ready to receive a curtain which will define my space, so I can also work on my acoustics.
+*** TODO Get a theater-like curtain (or blackout)
+It really just needs to be thick and also custom tailored for the size I need in the living room.
+
+To mount this I also will need a way to move it about since I want to still have access to the windows but also a way to open it to accommodate visits. The rail it will sit on needs to have a block of wood (or any other reflecting material) in the inside of my space to keep sound from getting out of it - we essentially want to make it into an acoustic chamber.
+*** TODO Buy acoustic padding (foam)
+To be discussed with Chris since I need to know how much to buy.
+*** TODO Furniture for storing all that I need
+To store all my electronics, showcase figures, books and all that. Some cloth hangers would be ideal too so I can keep them outside of the ground.
+*** TODO A mini vacuum for daily soft duty cleaning.
+So I can more easily maintain dusty places... Not dusty in a daily basis.
+*** TODO Figure out what to do about my whiteboard
+Do I want it bigger? Do I want it in a different place? Do I still want it?
+** KILL Work on Kanna
+Not much to write here, I need to sit my butt down and work on her much needed upgrade.
+** KILL Start and finish a personal project
+So the options here are...
+
+1. Create a pull-request for ~toolbox~ to allow to pass environment variables over to containers, or to just properly preserve ~$PATH~
+   I can base it off of PR [[https://github.com/containers/toolbox/pull/890][#890]] since it was supposed to do just that and behave like ~podman-run~ does.
+2. Vim Vixen re-work, since the original developer... Seems to have put the project aside completely and the community has 0 coordination and knowledge to push it forward.
+   [[https://github.com/ueokande/vim-vixen/pull/1437][This]] is the pull-request that was done to fix it originally.
+** KILL Figure out and plan somewhat what I want from next year
+I gotta understand where my budget will go, where to travel, how much, how long... What are my desires, my passion and what is my purpose - I am very much lost lately.
+*** What I want
+**** 500 commits in the year
+This means I need to commit 41 times a month.

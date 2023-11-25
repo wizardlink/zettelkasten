@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1820e17f-3bf4-4392-9160-255d36e83761
+:END:
+#+title: Técnicas De Programação
+
+* Table of Contents :TOC:
+- [[#introdução][Introdução]]
+  - [[#o-que-são-linguagens-de-programação][O que são linguagens de programação?]]
+  - [[#linguagens-estruturadas][Linguagens estruturadas]]
+
+* Introdução
+
+** O que são linguagens de programação?
+No campo da informática, a linguagem não é usada somente na criação de programas computacionais, mas sim, em diversas outras ocasiões, podemos citar as linguagens formais, que permitem, por exemplo, a especificação e teste das próprias linguagens de programação, protocolos de redes de computadores e reconhecimento de padrões em processamento de textos.
+Na área de hardware, podemos citar as linguagens de descrição de hardware (HDL – Hardware Description Language): este tipo de linguagem objetiva o projeto de circuitos eletrônicos digitais, tais como processadores. A partir do uso de uma HDL, pode-se, por exemplo, criar um chip, configurar uma FPGA (Field Programmable Gate Array – Matriz de Portas Programáveis em Campo) ou um PSoC (Programmable System-on-Chip – Sistema programável em um chip). Por fim, podemos mencionar também, as linguagens de marcação: dotadas de elementos de anotações de forma a formatar um texto a ser exibido ou a ser manipulado.
+Como exemplos, temos a HTML (HyperText Markup Languagem – Linguagem de Marcação de HiperTextos) e o XML (eXtensible Markup Languagem – Linguagem de Marcação Extensível).
+
+** Linguagens estruturadas
+No nosso caso, vamos nos aprofundar nas linguagens de programação, mais especificamente, nas linguagens estruturadas, utilizando para as exemplificações a linguagem C de programação. Então, o que vem a ser efetivamente uma linguagem de programação?

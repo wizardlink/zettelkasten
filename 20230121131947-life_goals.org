@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7409904e-9a0b-49b8-a7b4-672cbd1beb1e
+:END:
+#+title: Life goals
+#+filetags: :goal:
+
+* Long term
+1. [ ] Live overseas.
+2. [ ] Have a diploma in Computer Science or the knowledge equivalent to.
+3. [ ] Create a community which I am proud of, where my peers contribute positively towards it.
+   /It also must be important that I fit in, that it feels like home./
+* Far future
+1. [ ] Have my own company, preferably related to games.
+2. [ ] Bring my family to live overseas.
+3. [ ] Have kids.

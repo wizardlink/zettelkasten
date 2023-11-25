@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d88dfb7e-9bc4-4b61-ad79-046eac730fba
+:END:
+#+title: 2022-07-07
+#+filetags: :daily:
+
+* Input
+** [[https://stackoverflow.com/questions/69875520/unable-to-negotiate-with-40-74-28-9-port-22-no-matching-host-key-type-found-th][Unable to negotiate with 40.74.28.9 port 22: no matching host key type found. Their offer: ssh-rsa]]
+** [[https://bevyengine.org/learn/book/getting-started/][Bevy Engine - Getting Started]]
+** [[https://www.rust-lang.org/learn][Rust - Learn Rust]]
+** [[id:c992d176-f469-42f3-ae8a-09c5dc3514f8][Yofukashi no Uta's first episode]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

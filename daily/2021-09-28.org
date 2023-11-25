@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       403702f6-0b38-43bb-86f8-da5295e2669e
+:END:
+#+title: 2021-09-28
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The path I took.
+** What do you want today's highlight to be?
+Sleep early.
+** What's on your mind?
+Classes, I gotta catch up with them if I want to succeed in any way. I also really wanna play, I gotta "lower" this desire.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:20 | 12:40 - 13:44 | 17:50 |  +00:26 |
+
+Trabalhando em uma ocorrência relacionada ao +Brasil, demandou boa parte de meu tempo vendo que não tenho uma referência (direta) em mãos a API e o conhecimento de negócio do Pregão Eletrônico limitado. Estou para conversar com Pedro Kalva ou Wellington Nascimento sobre a ocorrência para validar o fluxo, garantir que está certo a query feita hoje para a busca de fornecedores.
+
+Além disso auxiliei Davino com sua publicação e problemas de ambiente, auxiliei e avidiquei a mudanças de fluxo como a utilização de um Kanban e fiz o code review do merge request de Thiago César e Emanuel Albuquerque.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

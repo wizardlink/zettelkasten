@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       95184bd0-eda7-4585-8736-1fb9f9a910ed
+:END:
+#+title: CLI
+
+* Meaning
+Command Line Interface

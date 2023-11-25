@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6a419b75-2481-45b9-b6f9-797c44096dbb
+:END:
+#+title: LibriVox - Free public domain audio books
+#+filetags: :tool:book:
+
+* [[https://librivox.org/][LibriVox]]
+This is a website *full* of audio books from all sort of books, both old and new. It seems to have an amazing library of them.

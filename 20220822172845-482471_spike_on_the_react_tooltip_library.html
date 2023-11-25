@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>482471 - Spike on the React Tooltip library</title>
+  <meta name="author" content=
+  "Alexandre Cavalheiro S. Tiago da Silva">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <style type="text/css">
+  .underline { text-decoration: underline; }
+  </style>
+  <link rel="stylesheet" href=
+  "https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href=
+  "https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/night.css" id=
+  "theme">
+  <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+
+  <script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://cdn.jsdelivr.net/npm/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+  </script>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section id="sec-title-slide">
+        <h2>Tooltip library analysis</h2>
+      </section>
+      <section id="sec-table-of-contents">
+        <div id="table-of-contents" role="doc-toc">
+          <h2>Table of Contents</h2>
+          <div id="text-table-of-contents" role="doc-toc">
+            <ul>
+              <li>
+                <a href="#/slide-org9932833">1. Overview</a>
+                <ul>
+                  <li>
+                    <a href="#/slide-orgfc521dd">1.1.
+                    react-component/tooltip vs
+                    floating-ui/floating-ui</a>
+                    <ul>
+                      <li>
+                        <a href="#/slide-org0dfcadd">1.1.1. Why
+                        Floating UI?</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section>
+        <section id="slide-org9932833" data-background-iframe=
+        "https://floating-ui.com/" data-background-interactive="">
+          <div style="background: rgb(0,0,0); opacity: 0.9;">
+            <h2 id="org9932833"><span class=
+            "section-number-2">1.</span> Overview</h2>
+            <p>A <a href="https://floating-ui.com/">Floating UI</a>
+            introduction! These slides will showcase why and how
+            the decision to go forward with the library was
+            made.</p>
+            <p>The TL;DR is:</p>
+            <ol>
+              <li data-fragment-index="1" class="fragment roll-in">
+              It’s a toolkit to provide elegant ways to manage
+              floating components;</li>
+              <li data-fragment-index="2" class="fragment roll-in">
+              Has a small footprint;</li>
+              <li data-fragment-index="3" class="fragment roll-in">
+              An actual full fledged library instead of just a
+              single component, giving us flexibility going
+              forward.</li>
+            </ol>
+            <div style="padding-top: 40px"></div>
+          </div>
+        </section>
+      </section>
+      <section>
+        <section id="slide-orgfc521dd">
+          <h3 id="orgfc521dd"><span class=
+          "section-number-3">1.1.</span> <a href=
+          "https://github.com/react-component/tooltip">react-component/tooltip</a>
+          vs <a href=
+          "https://github.com/floating-ui/floating-ui">floating-ui/floating-ui</a></h3>
+          <p>Here’s some metrics, some more useful than others
+          about both repositories.</p>
+          <table border="2" cellspacing="0" cellpadding="6" rules=
+          "groups" frame="hsides">
+            <colgroup>
+              <col class="org-left">
+              <col class="org-right">
+              <col class="org-right">
+            </colgroup>
+            <thead>
+              <tr>
+                <th scope="col" class="org-left">Metric</th>
+                <th scope="col" class="org-right">tooltip</th>
+                <th scope="col" class="org-right">floating-ui</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="org-left">Stars</td>
+                <td class="org-right">866</td>
+                <td class="org-right">22800</td>
+              </tr>
+              <tr>
+                <td class="org-left">Contributors</td>
+                <td class="org-right">48</td>
+                <td class="org-right">63</td>
+              </tr>
+              <tr>
+                <td class="org-left">Used by</td>
+                <td class="org-right">?</td>
+                <td class="org-right">2200000+</td>
+              </tr>
+              <tr>
+                <td class="org-left">TypeScript coverage</td>
+                <td class="org-right">39%</td>
+                <td class="org-right">80%</td>
+              </tr>
+              <tr>
+                <td class="org-left">Releases</td>
+                <td class="org-right">21</td>
+                <td class="org-right">236</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>The important point to take here is that <a href=
+          "https://github.com/react-component/tooltip">react-component/tooltip</a>
+          isn’t a library, instead, it’s just a component with
+          basic CSS and attributes to alter functionality and
+          behaviour.</p>
+        </section>
+        <section id="slide-org0dfcadd">
+          <h4 id="org0dfcadd"><span class=
+          "section-number-4">1.1.1.</span> Why Floating UI?</h4>
+          <p><a href="https://floating-ui.com/">Floating UI</a> as
+          mentioned in the TL;DR is a toolkit to create and manage
+          floating elements, it gives emphasis on working “safely”
+          with these elements, ensuring that they behave properly
+          on all types of inputs and beautifully calculates the
+          position of the cursor with a polygon, essentially a
+          “safe zone” for it, giving us an interface to even detect
+          the overflow of elements.</p>
+          <p>It’s home page drives the point home of it’s
+          flexibility and accuracy, it will involve more coding to
+          implement but will hugely improve our development
+          experience and the user’s experience in the platform.</p>
+        </section>
+        <section id="slide-org0dfcadd-split">
+          <p>The library isn’t React specific, which is great, but
+          it does supports great React bindings for both React DOM
+          <b>and</b> React Native, moreover gives us an extra
+          package which comes with React DOM bindings and
+          interaction primitives to make it easier for us to build
+          components using the library without a lot of boilerplate
+          such as is shown in the example below.</p>
+          <div class="org-src-container">
+            <pre class="src src-js-jsx"><code trim=""><span style=
+            "color: #fb4934;">import</span> { cloneElement, useMemo, useState } from <span style="color: #b8bb26;">"react"</span>;
+<span style="color: #fb4934;">import</span> {
+  Placement,
+  offset,
+  flip,
+  shift,
+  autoUpdate,
+  useFloating,
+  useInteractions,
+  useHover,
+  useFocus,
+  useRole,
+  useDismiss
+} from <span style=
+"color: #b8bb26;">"@floating-ui/react-dom-interactions"</span>;
+<span style=
+"color: #fb4934;">import</span> { motion, AnimatePresence } from <span style="color: #b8bb26;">"framer-motion"</span>;
+<span style=
+"color: #fb4934;">import</span> mergeRefs from <span style=
+"color: #b8bb26;">"react-merge-refs"</span>;
+
+<span style="color: #fb4934;">interface</span> Props {
+  label: string;
+  placement?: Placement;
+  children: JSX.Element;
+}
+
+<span style="color: #fb4934;">export</span> <span style=
+"color: #fb4934;">const</span> <span style=
+"color: #83a598;">AnimatedTooltip</span> = ({
+  children,
+  label,
+  placement = <span style="color: #b8bb26;">"top"</span>
+}: Props) =&gt; {
+  <span style="color: #fb4934;">const</span> [<span style=
+"color: #83a598;">open</span>, <span style=
+"color: #83a598;">setOpen</span>] = useState(<span style=
+"color: #d3869b;">false</span>);
+
+  <span style=
+"color: #fb4934;">const</span> { x, y, reference, floating, strategy, context } = useFloating({
+    placement,
+    open,
+    onOpenChange: setOpen,
+    middleware: [offset(<span style=
+"color: #d3869b; font-weight: bold;">5</span>), flip(), shift({ padding: <span style="color: #d3869b; font-weight: bold;">8</span> })],
+    whileElementsMounted: autoUpdate
+  });
+
+  <span style=
+"color: #fb4934;">const</span> { getReferenceProps, getFloatingProps } = useInteractions([
+    useHover(context, { restMs: <span style=
+"color: #d3869b; font-weight: bold;">40</span> }),
+    useFocus(context),
+    useRole(context, { role: <span style=
+"color: #b8bb26;">"tooltip"</span> }),
+    useDismiss(context)
+  ]);
+
+  <span style="color: #928374;">// </span><span style=
+"color: #928374;">Preserve the consumer's ref</span>
+  <span style="color: #fb4934;">const</span> <span style=
+"color: #83a598;">ref</span> = useMemo(() =&gt; mergeRefs([reference, (children as any).ref]), [
+    reference,
+    children
+  ]);
+
+  <span style="color: #fb4934;">return</span> (
+    &lt;&gt;
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">      </span>{cloneElement(children, getReferenceProps({ ref, ...children.props }))}
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">      </span>&lt;<span style="color: #b8bb26;">AnimatePresence</span>&gt;
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">        </span>{open &amp;& (
+          &lt;<span style="color: #b8bb26;">motion.div</span>
+            <span style=
+"color: #83a598;">initial</span>={{ opacity: <span style=
+"color: #d3869b; font-weight: bold;">0</span>, scale: <span style=
+"color: #d3869b; font-weight: bold;">0.85</span> }}
+            <span style=
+"color: #83a598;">animate</span>={{ opacity: <span style=
+"color: #d3869b; font-weight: bold;">1</span>, scale: <span style=
+"color: #d3869b; font-weight: bold;">1</span> }}
+            <span style=
+"color: #83a598;">exit</span>={{ opacity: <span style=
+"color: #d3869b; font-weight: bold;">0</span> }}
+            <span style=
+"color: #83a598;">transition</span>={{ type: <span style=
+"color: #b8bb26;">"spring"</span>, damping: <span style=
+"color: #d3869b; font-weight: bold;">20</span>, stiffness: <span style="color: #d3869b; font-weight: bold;">300</span> }}
+            <span style="color: #83a598;">ref</span>={floating}
+            <span style=
+"color: #83a598;">className</span>=<span style=
+"color: #b8bb26;">"Tooltip"</span>
+            <span style="color: #83a598;">style</span>={{
+              position: strategy,
+              top: y ?? <span style=
+"color: #d3869b; font-weight: bold;">0</span>,
+              left: x ?? <span style=
+"color: #d3869b; font-weight: bold;">0</span>
+            }}
+            {...getFloatingProps()}
+          &gt;
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">            </span>{label}
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">          </span>&lt;/<span style="color: #b8bb26;">motion.div</span>&gt;
+        )}
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">      </span>&lt;/<span style="color: #b8bb26;">AnimatePresence</span>&gt;
+<span style=
+"color: #ebdbb2; background-color: #1d2021;">    </span>&lt;/&gt;
+  );
+};
+</code></pre>
+          </div>
+        </section>
+      </section>
+    </div>
+  </div>
+  <script src=
+  "https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+  
+  <script>
+
+  // Full list of configuration options available here:
+  // https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+  width:1400, height:1000, margin: 0.1, minScale:0.2, maxScale:2.5, transition:'convex',
+
+  // Optional libraries used to extend on reveal.js
+  dependencies: [
+  { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+  ]
+
+  });
+
+  </script>
+</body>
+</html>

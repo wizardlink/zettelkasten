@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       b2d28407-ead2-4f4a-b7ce-4ce10da412af
+:END:
+#+title: NX
+#+filetags: :tool:monorepo:
+* References
+- [[id:f9f3f2b6-c53a-44af-8a08-c43ad89ce068][Programming tools]]
+
+* Overview
+[[https://nx.dev/][NX]] is a [[id:6705c6f6-51c6-4974-8846-998b3929c639][NodeJS]] tool for generating, maintaining and updating /[[id:c9818ce7-f64a-4cce-9140-8c194fa2f5aa][monorepos]]/ in a way which provides better scalability of the product at hand; though it's a [[id:6705c6f6-51c6-4974-8846-998b3929c639][NodeJS]] program, it doesn't necessarily only handles [[id:6705c6f6-51c6-4974-8846-998b3929c639][NodeJS]] as it can also be used for [[id:daa3c24b-1e82-448d-87db-7abc4ed7032e][GO]] and [[id:7002a29a-fcd6-42ba-b437-6e79b3600ac0][Rust]].
+
+The documentation for this tool can be found in [[https://nx.dev/getting-started/intro][here]].
+* Usage
+** Installation/Creation
+To create a /[[id:c9818ce7-f64a-4cce-9140-8c194fa2f5aa][monorepo]]/ you can do so by executing one of the following commands:
+1. ~npx create-nx-workspace~ or
+2. ~yarn create nx-workspace~
+
+This will give you a few presets to choose from as well as the project's name and first application's name. Once you've followed it's steps you will see that it created a directory with the /[[id:c9818ce7-f64a-4cce-9140-8c194fa2f5aa][monorepo]]/ for you to play around with.
+
+You can optionally also install globally ~nx~, the /[[id:95184bd0-eda7-4585-8736-1fb9f9a910ed][CLI]]/ tool you will be using to test, build and run the projects you build in this /[[id:c9818ce7-f64a-4cce-9140-8c194fa2f5aa][monorepo]]/, otherwise you can run it through ~npx~ (~npx nx [...Arguments]~) or ~yarn~ (~yarn nx [...Arguments]~).
+** Running
+- ~yarn nx run <Project name>~
+
+Projects can be ran using a multitude of tools, such as [[id:1d4ba81a-4fb2-4353-a3e8-d1bf6587a229][webpack]] (+ [[id:9bf1bafc-698c-4353-8a0e-deb54ed2ae81][babel]]), [[id:daa3c24b-1e82-448d-87db-7abc4ed7032e][GO]], [[id:7002a29a-fcd6-42ba-b437-6e79b3600ac0][Rust]], [[id:6705c6f6-51c6-4974-8846-998b3929c639][NodeJS]], etc..
+** Building
+- ~yarn nx build <Project name>~
+** Testing
+- ~yarn nx test <Project name>~
+** Serving
+- ~yarn nx serve <Project name>~
+
+This command can be used to serve web projects for live testing.
+** [[https://nx.dev/cli/run-many][Multi-project tasks]]
+- ~yarn run-many --target=[build|test|run] [--projects] [--all]~
+
+This command can be used to test, build or run multiple or all projects in the /[[id:c9818ce7-f64a-4cce-9140-8c194fa2f5aa][monorepo]]/.

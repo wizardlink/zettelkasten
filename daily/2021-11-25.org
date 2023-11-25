@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       ddb7d9a0-6a57-4a07-8f25-883f60ef7926
+:END:
+#+title: 2021-11-25
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-11-25 Thu]
+- [X] Announce new staff position
+- [X] Move Hydra payments to my credit card
+* Work
+| Enter | Lunch |  Left | Balance |
+|-------+-------+-------+---------|
+| 07:30 |       | 15:30 | - 00:00 |
+
+Acabei trabalhando de madrugada, então optei por trabalhar cedo, não almoçar, e terminar cedo.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

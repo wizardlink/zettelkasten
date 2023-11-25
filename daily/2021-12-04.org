@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       3630d699-b1ee-45de-9df1-1a5482709e91
+:END:
+#+title: 2021-12-04
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-12-04 Sat]
+- [X] Make a new animated banner for the Cult
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+
+No work today.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

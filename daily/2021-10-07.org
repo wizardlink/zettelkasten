@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       c9fec2a4-0f02-4ca6-88f6-4e3cc3f768cf
+:END:
+#+title: 2021-10-07
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:26 | 12:21 - 13:24 | 20:45 | + 03:15 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Back hurts, a lot, this chair is not as ergonomic as it should be.
+** What could you have done better?
+Woken up earlier, like, much earlier.
+** Amazing things that happened
+** What did you learn today?
+That I am a fool who needs to get his stuff together.

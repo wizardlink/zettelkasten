@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9d29f17e-d964-4065-abcc-1d8a570efd67
+:END:
+#+title: 2022-06-23
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My perception and quick thinking, I am really grateful of that.
+** What do you want today's highlight to be?
+I want to work on /Akita Neru/, the framework for our new Discord applications that are incoming.
+** What's on your mind?
+Man... I rock; It's hard to accept this, my ego will not allow it, I still have it stuck in the back of my mind people saying that my ego was too inflated, but it truly wasn't. I am an amazing individual and have to recognise that.
+* Tasks
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

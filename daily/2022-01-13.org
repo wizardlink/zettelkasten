@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f4cea422-8e9a-4e18-b6c4-0152298ccf2f
+:END:
+#+title: 2022-01-13
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:19 | 13:22 - 14:30 | 17:12 |  -00:15 |
+
+1. Atualizei a branch 4.3.1 com a 4.3
+2. Auxiliei Cielo com o seu merge
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

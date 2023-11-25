@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       178cb82e-0ea8-473e-9abc-207a4b3339fa
+:END:
+#+title: Sway issue with specific input device ID
+#+filetags: :issue:
+
+* The issue
+So, I have a KVM switch plugged to two computers in which at the click of a button I can swap which computer has access to those devices connected to the switch. In SwayWM I was having this weird issue where my logitech mouse was causing SwayWM to literally crash whenever I gave my main computer access to my device; I fixed this however by using ~input "type:pointer" {}~ instead of directly using the device ID.
+** KILL The report
+I gotta open an issue in the [[github:swaywm/sway][repository of SwayWM]] to track this and have it figured out.

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1fde6f1e-7ad1-4181-b9e3-07087d5cd3a8
+:END:
+#+title: 2022-06-24
+#+filetags: :daily:appointment:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+** Appointment with Dr. Hugo Oliveira (Otolaryngology)
+SCHEDULED: [2022-06-24 Fri 11:45]
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

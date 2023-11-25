@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8b605e4e-f9e7-4f03-bf4e-8058976aaeae
+:END:
+#+title: Akita Neru
+* References
+- [[id:5808bb59-52cf-4ab6-a2fa-48b268362f86][Hydractify]]
+
+* Overview
+This is a framework I'm working at to enter the [[id:5808bb59-52cf-4ab6-a2fa-48b268362f86][Hydractify]] umbrella to speed up the development process of our Discord applications.
+
+The main focus behind this framework is the ease of development for all levels of expertise, while also allowing deep integration with the framework by extending it or adding modules which can directly alter processes.
+* Configuration
+You should be able to change the behavior of the framework easily, to change the configuration of installed modules as well as extend the framework by passing the same through it.
+
+The configuration can be set through a file in the root of the project (~.akitaneru.js~) or through the constructor of the entry point of the framework (~AkitaNeru~).

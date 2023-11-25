@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       ae0b0081-a3cf-468f-9bd1-befadbeca67c
+:END:
+#+title: 2021-10-26
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The improvement I made in a short time.
+** What do you want today's highlight to be?
+Be able to finish a task with half or full focus.
+** What's on your mind?
+God damn, one slip and I woke up sort of late. 💦
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:30 | 12:33 - 13:30 | 17:36 | + 00:03 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

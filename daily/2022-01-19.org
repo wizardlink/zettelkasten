@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       3e61eebc-49cf-44c4-ac4b-e487acedaeba
+:END:
+#+title: 2022-01-19
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:00 | 12:48 - 14:00 | 18:26 |  +00:13 |
+
+** Worked on /PNCP/
+Still working on the implementation of the agencies automatically.
+** Investigated more about the /Object.GetHashCode/ problem.
+I create an [[https://sgo.basis.com.br/browse/SADPE202021-1602][occurence in Jira]] for this as well as a [[https://gitlab.basis.com.br/pe/pe-integrado/-/issues/14][GitLab issue]] to track it in the development side.
+
+Enter those two for more info, I'm going to be updating that any time it's proper.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

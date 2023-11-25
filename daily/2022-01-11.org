@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       c74e6a9d-0f85-45de-a064-206bd6c9636e
+:END:
+#+title: 2022-01-11
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My will to adapt.
+** What do you want today's highlight to be?
+Have fun, be able to accomplish anything really.
+** What's on your mind?
+God damn it, I'm stuck.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:26 | 14:32 - 15:35 | 17:30 |  +00:01 |
+
+** [[https://sgo.basis.com.br/browse/SADPE202021-1205][SADPE202021-1205]]
+User error, the analysis conclusion can only be done when the contract is in analysis (situation ~5~).
+** [[https://sgo.basis.com.br/browse/SADPE202021-1257][SADPE202021-1257]]
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

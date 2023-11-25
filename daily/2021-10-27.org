@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       d4f003f0-f733-4a81-b930-2e4db60ac140
+:END:
+#+title: 2021-10-27
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch |  Left | Balance |
+|-------+-------+-------+---------|
+| 13:45 |       | 17:13 | - 04:31 |
+
+Finished working on the ARP ocurrence and the E-Fisco one.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

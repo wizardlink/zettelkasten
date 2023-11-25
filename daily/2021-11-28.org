@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       883a6c41-892c-469e-8b2d-9ade303cb524
+:END:
+#+title: 2021-11-28
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-11-28 Sun]
+- [X] Work on the tasks from Saturday.
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+
+No work today.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

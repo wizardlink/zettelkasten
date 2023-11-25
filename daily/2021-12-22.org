@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       978dd62f-0f89-4e1e-8a6a-2fc266b4f07c
+:END:
+#+title: 2021-12-22
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+Don't know man, the salary I have I guess?
+** What do you want today's highlight to be?
+I want peace, that's all.
+** What's on your mind?
+This old developer that works with us, is a fucking elitist and I hate it. 🙂
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:09 | 12:58 - 13:59 | 17:10 |  +00:00 |
+
+Just did PNCP, again. Also fixed the branches and some awful pull requests but y'know, the usual.
+* Input
+** [[youtube:NBDL_m_ZzKc][Don’t make this major MISTAKE with your YouTube channels!]]
+About the business model of a /modern/ content creator career.
+** [[youtube:wHTcrmhskto][Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers]]
+Yeah... Another Fireship video where he sort of rants about American society and how experienced he is.
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

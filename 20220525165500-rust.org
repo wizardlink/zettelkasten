@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7002a29a-fcd6-42ba-b437-6e79b3600ac0
+:END:
+#+title: Rust
+#+filetags: :language:
+* References
+- [[id:5ed65eb8-d72f-4400-b68f-9bca3f1f4d0e][Programming languages]]
+
+* TODO Overview
+* Learning
+1. https://www.rust-lang.org/learn
+2. https://doc.rust-lang.org/book/

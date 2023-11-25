@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b4f9d25f-436c-45c6-976c-a1f522275951
+:END:
+#+title: Anime
+#+filetags: :reference:
+
+This is a reference card to all anime.

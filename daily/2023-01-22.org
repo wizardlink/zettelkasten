@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       15c6394f-ae13-434c-98b2-fd3803141aac
+:END:
+#+title: 2023-01-22
+#+filetags: :fun:movie:daily:
+
+* Tasks
+* Input
+** [[https://www.imdb.com/title/tt3915174/][Puss in Boots: The Last Wish]]
+/*Amazing* movie/
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

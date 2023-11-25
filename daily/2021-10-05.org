@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       d4c78efc-543f-40f1-a597-cbbc01a57b42
+:END:
+#+title: 2021-10-05
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My resilience.
+** What do you want today's highlight to be?
+Finish up a test from University.
+** What's on your mind?
+I gotta figure out a way to make my virtual machine smoother, it sucks to work on it right now.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:15 | 12:25 - 13:27 | 18:32 | + 01:15 |
+
+I worked on a task to create a cronjob which will change the status of a comission and send out e-mails when it does so, haven't progressed too much since I spent a lot of my time answering questions and delegating/supervising the interns.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+I am not sure, I feel... Uneasy, really lost.
+** What could you have done better?
+Be more open about how I feel, be more forward on my approach.
+** Amazing things that happened
+Nothing today.
+** What did you learn today?
+Not learn per say, but, that you can remove the inner cells of a grape and theoretically grow new ones within it.

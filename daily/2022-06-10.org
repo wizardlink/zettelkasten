@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       a2daf573-f671-4e1b-af96-52c6bd3cac72
+:END:
+#+title: 2022-06-10
+#+filetags: :daily:work:
+
+* Morning Journal
+** What are you grateful for?
+For looking towards being a healthier and happier person.
+** What do you want the today's highlight to be?
+Implement /ESLint/ in /Mooble/.
+** What's on your mind?
+Man, I am unsure whether I love her anymore... She's an amazing friend and I want her in my life... But I don't know if I want a partner anymore, I feel like I need to be alone.
+* Tasks
+** DONE Implement /ESLint/ in /Mooble/
+* Input
++ [[https://www.youtube.com/watch?v=L9SLlxaEEXY][The FUN and EFFICIENT note-taking system I use in my PhD]]
+  This helped me push forward with just... Take actual notes, let the method guide me in organization instead of trying to build a structure to my notes right away, I don't even take notes anymore so how would I know where to begin?
++ [[https://www.youtube.com/watch?v=tFECpaC7aa8][Kuroinu: The ℌệ𝔫𝔱ằ𝔦 that is EPIC]]
+  This was just honestly funny.
++ [[https://www.youtube.com/watch?v=PQrroNULwSc][Are Vtubers Authentic? | Interview with Ironmouse!]]
+  Honestly... I gotta re-watch this someday, with calm and to be able to reflect better; There's just a lot to sink in.
+* Output
++ [[id:f9f3f2b6-c53a-44af-8a08-c43ad89ce068][Programming tools]] & [[id:5808bb59-52cf-4ab6-a2fa-48b268362f86][Hydractify]]
+  Reference files for other notes to point to.
++ [[id:5b7966be-2a68-48c3-b9d1-25864e6b3ce7][Mooble]]
+  Created the file for the current project I'm working in, I'll be building it soon enough.
++ [[id:eba83991-3177-415d-b051-c2abeacd9a1a][Aug 2022 Cult meeting]]
+  Ported from org notes, slowly I will be porting everything to ROAM.
++ [[Tasks][Worked on the ESLint implementation in Mooble]]
+  Unfortunately I wasn't able to complete it, I wasn't completely focused but I was able to configure the rest of the tools I will be using in Windows on top of understanding the structure of the ESLint rules and the next steps ahead to port it.
++ Fixed my issues with =Emacs=
+  I couldn't open Emacs before due to it not finding the fonts in ~$HOME/.local/share/fonts~ for some reason, I ported everything to ~/usr/share/fonts~ and it fixed the issue. The good thing that came out of this is that I compiled Emacs myself with the ~--with-native-compilation~ flag which makes DOOM run much nicer due to dependencies being built directly in my machine, on top of me having built Emacs myself, which on itself will give a small margin of improvement; it also apparently gives just-in-time compilation which probably will benefit other extensions/modules.
+* Evening Reflection
+** How are you feeling today?
+I felt hopeful for the future, until I watched [[https://www.youtube.com/watch?v=PQrroNULwSc][Dr. K's interview with Ironmouse]] which led me in a spiral of thought about why I can't get myself to allow a psychologist to understand me; it's because I am afraid of how they will judge me and specially afraid of them not being qualified enough to service me, not only analytically but also in the topics that I will eventually bring up.
+** What could you have done better?
+I guess... I could have concentrated better, I am just too unmotivated to do so, it's rough.
+** Amazing things that happened
+I spoke to Pablo, the tech lead of [[id:5b7966be-2a68-48c3-b9d1-25864e6b3ce7][Mooble]] and it was really good to know that... I am being seen for who I am and being highly estimated, but specially that this seems to be a big team effort rather than a monopolistic demand.
+** What did you learn today?
+That... I am far from happy, I lost control of myself. I knew it but I didn't want to accept it, I brushed it off and said to myself that as long as I did X or Y I could always climb the ladder again but quite honestly, if I did these things, I wouldn't know where to begin to climb back.

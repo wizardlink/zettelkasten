@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       daa3c24b-1e82-448d-87db-7abc4ed7032e
+:END:
+#+title: GO
+#+filetags: :tool:
+* References
+- [[id:f9f3f2b6-c53a-44af-8a08-c43ad89ce068][Programming tools]]
+
+* TODO Overview

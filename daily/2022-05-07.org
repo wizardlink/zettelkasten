@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       289fbfbf-81a5-4010-afea-6b3b319df51f
+:END:
+#+title: 2022-05-07
+#+filetags: :daily:
+* Morning Journal
+** What are you grateful for?
+The insights I seek to better myself, as much as I want to rush my career... I understand that these things should not be rushed.
+** What do you want today's highlight to be?
+I want to sleep at a decent time tonight, preferably going to bed at 23:00.
+** What's on your mind?
+Man... I want to become a better computer scientist, have more drive to read stuff too and get back into writing!
+* Tasks [2/3]
+- [X] Cancel /GAMIVO.com/ subscription.
+- [X] Create an index document for all sorts of information regarding myself.
+- [-] Take a look into my health insurance and dental plan.
+  - [X] Schedule a visit to the general clinic.
+  - [X] Schedule a visit to the dermatologist.
+  - [ ] Schedule a visit to a /ATM/ regarding my jaw.
+  - [ ] Schedule a visit to a dentist regarding my retainer, tilted front tooth and wisdom teeth.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

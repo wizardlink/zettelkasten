@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5b39b45a-1ed4-4fbb-93d0-468c727a613a
+:END:
+#+title: 497151 - Create the cloud render backgrounds list
+#+filetags: :work:cyncly:
+* Overview
+I have to implement the UI containing the list of backgrounds and lay the foundation to be able to "activate" them giving focus on the card that's in use.
+
+* What is missing
+** DONE A way to activate a card [4/4]
+*** [X] The CSS for activated cards.
+*** [X] Parent-level state management for the cards that are activated.
+*** [X] Callback to receive get the selected card from the list.
+*** KILL Be able to save the information in the database.
+** DONE Test it
+/Depends on the ~IS7.Services~ blocker that I have currently./
+*** [X] It looks like in the prototype.
+*** [X] You can choose what card is active.
+*** KILL The data of what card was picked is sent to the generation process.

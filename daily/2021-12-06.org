@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       94f87ec5-f657-4b04-a6e5-0fe2d470caa3
+:END:
+#+title: 2021-12-06
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [4/4]
+SCHEDULED: [2021-12-06 Mon]
+- [X] Talk to my mother about my passport payment
+- [X] Set-up my computer with the upgrade
+  - [X] Backup configuration
+  - [X] Backup sensitive data
+  - [X] Download BIOS update of the motherboard
+  - [X] Download Windows 10 ISO and Fedora in Ventoy
+  - [X] Clean and setup new rig without my new processor
+  - [X] Update BIOS
+  - [X] Change processors
+- [X] Update Cult's social presences with the giveaway extravaganza
+  - [X] Server listings
+  - [X] Twitter (and announce)
+  - [X] Steam (and announce)
+- [X] Try to figure out a way to play DFO in Linux
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 07:45 | 11:50 - 13:00 | 16:50 |  -00:04 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

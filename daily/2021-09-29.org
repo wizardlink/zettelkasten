@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       f4aec157-2fb5-43da-90a9-44689f6014c4
+:END:
+#+title: 2021-09-29
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The community I built.
+** What do you want today's highlight to be?
+Be able to sleep early but also accomplish one of my tasks.
+** What's on your mind?
+I want to put some time into the Cult, I gotta work on next month's events but also how we can grow.
+* Tasks [50%]
+- [ ] Work on Ixtus' API
+- [X] Do at least a test from University
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:01 | 12:00 - 13:15 | 19:44 | + 02:28 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

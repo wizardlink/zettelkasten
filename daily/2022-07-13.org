@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       262e89d0-bf39-4ac1-b408-0edb711175e0
+:END:
+#+title: 2022-07-13
+#+filetags: :daily:appointment:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+** Appointment with Dr. Ana Paula Szpoganicz (Fonoaudiologist)
+SCHEDULED: [2022-07-13 Wed 18:00]
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

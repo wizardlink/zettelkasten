@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       9cd56742-6ea3-4e8f-b10c-77d9d02f0e38
+:END:
+#+title: 2021-12-07
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The work I have, as stressful as it may be.
+** What do you want today's highlight to be?
+To fucking finish my pc set-up.
+** What's on your mind?
+Banana phone 🎵.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:02 | 12:53 - 14:00 | 17:48 |  +00:39 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

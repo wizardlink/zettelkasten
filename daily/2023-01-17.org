@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7b212304-1f53-46dc-af99-61a70fe7ccf6
+:END:
+#+title: 2023-01-17
+#+filetags: :daily:
+
+* Input
+** http://www.lighthouse3d.com/tutorials/
+** https://www.shadertoy.com/
+* Output
+* Evening Reflection
+** How are you feeling today?
+Pretty well, accomplished and overwhelmed. For the latter part: There is a lot I want to do, studying, organizing, cleaning and reading; however I cannot get myself to choose what's best so I end up doing none of it, staring at my screen and playing games instead of it all - this feeling sucks.
+** What could you have done better?
+Be a little bit more patient, that is all. Today was a great day in many aspects, but in work specially, it's rough.
+** Amazing things that happened
+I got a lot of insight from Brian, a co-worker at /Cyncly/ which gave me a lot of perspective on the backwards thinking when it comes to programming and our projects. It had been a while that I had thought it that way, and it's the way to go really, if I can't find the path forward, we go backwards.
+** What did you learn today?
+That there is hope, I just cannot panic like I always do. The way to go is forward they say, and it really is, I gotta be more spontaneous and just start doing things like writing this, I feel SO much better after writing it and putting my thoughts into words into a document to better understand where I am. :)

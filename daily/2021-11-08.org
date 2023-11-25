@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       0912c8ae-d731-402a-bf65-10a4ece23d7d
+:END:
+#+title: 2021-11-08
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The life I have.
+** What do you want today's highlight to be?
+Some nice DOTA matches.
+** What's on your mind?
+Man, I gotta decide already what's best for me. :(
+* Tasks
+* Work
+| Enter | Lunch          |  Left | Balance |
+|-------+----------------+-------+---------|
+| 09:00 | 14:43  - 16:00 | 18:30 | + 00:12 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Somewhat accomplished considering that I had a really good DOTA match today.
+** What could you have done better?
+Not fell asleep and fucked up work.
+** Amazing things that happened
+I had a blast at Dota 2.
+** What did you learn today?
+That I actually find DOTA fun.

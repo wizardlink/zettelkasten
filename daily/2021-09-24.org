@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       60f4bddc-6c07-4da9-a8d1-2a15abd98a76
+:END:
+#+title: 2021-09-24
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The environment I work in.
+** What do you want today's highlight to be?
+Be able to focus better... Unlike yesterday.
+** What's on your mind?
+Maybe I should stop putting so much effort and time into my community.
+* Tasks
+* Work hours
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:40 | 12:17 - 13:17 | 17:55 |  -00:45 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

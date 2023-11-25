@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       bd1be103-9adf-4956-9466-19c03a0cc390
+:END:
+#+title: 2021-10-22
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+What I have today.
+** What do you want today's highlight to be?
+Study!
+** What's on your mind?
+Man, I gotta play some more Dota but also study more often.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:02 | 11:55 - 13:00 | 17:10 | - 00:57 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Tired.
+** What could you have done better?
+Focus on what I had a lead on, there were too many issues that had deeper root causes.
+** Amazing things that happened
+?
+** What did you learn today?
+Don't think I have learned anything today.

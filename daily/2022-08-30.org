@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       526e80dd-7d55-4c15-b9e2-32ddfc76f3c4
+:END:
+#+title: 2022-08-30
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+I'm not sure anymore.
+** What do you want today's highlight to be?
+Finish a task from work.
+** What's on your mind?
+:(
+* Tasks
+** KILL [[id:04a8eb6a-0f59-4309-a53d-5dfa1d0f47b9][Routine]]
+** DONE Finish a task from work
+** KILL Create the CommandHandler for Kanna
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

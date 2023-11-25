@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       f30ff85c-f2c3-4c31-9e0b-b627be68d53c
+:END:
+#+title: 2021-12-21
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The fact that I stand my ground.
+** What do you want today's highlight to be?
+Not sure, think I'm going to just code today, maybe play DFO.
+** What's on your mind?
+Can't wait for a break.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:05 | 12:30 - 13:40 | 17:10 |  -00:04 |
+* Input
+** [[https://www.youtube.com/watch?v=IRTfhkiAqPw][Object-Oriented Programming is Embarrassing: 4 Short Examples]]
+A 20 minute long video showcasing the shortfalls of object oriented design patterns and thought process to adequate to OOP and why it's so awful.
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

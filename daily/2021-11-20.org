@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       eced3771-6988-41a8-8a84-93523e014a2a
+:END:
+#+title: 2021-11-20
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks [100%]
+SCHEDULED: [2021-11-20]
+- [X] Unsubscribe from services which aren't used often
+  - [X] ProtonVPN
+  - [X] Amazon Prime
+  - [X] Patreon (Hydractify)
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

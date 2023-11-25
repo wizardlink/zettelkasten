@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       9282969b-ef67-444d-aacd-c41f8320d929
+:END:
+#+title: 2022-01-28
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The friends and opportunities I have.
+** What do you want today's highlight to be?
+Work on Cult's necessities with Digit, progress on Kanna's documentation and play some doto.
+** What's on your mind?
+I may after all... Still love her, who knows right now honestly?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:00 | 13:36 - 14:45 | 17:40 |  -00:29 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

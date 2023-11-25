@@ -1,0 +1,130 @@
+:PROPERTIES:
+:ID:       18cba9f7-4715-48d5-af1f-285c6af125ba
+:END:
+#+title: 482471 - Spike on the React Tooltip library
+#+filetags: :cyncly:work:
+
+#+REVEAL_INIT_OPTIONS: width:1400, height:1000, margin: 0.1, minScale:0.2, maxScale:2.5, transition:'convex'
+#+REVEAL_HLEVEL: 2
+#+REVEAL_PLUGINS: (markdown print-pdf)
+#+REVEAL_THEME: night
+#+REVEAL_TITLE_SLIDE: <h2>Tooltip library analysis</h2>
+
+* Overview
+:PROPERTIES:
+:reveal_background: rgb(0,0,0)
+:reveal_background_iframe: https://floating-ui.com/
+:reveal_background_opacity: 0.9
+:END:
+
+A [[https://floating-ui.com/][Floating UI]] introduction! These slides will showcase why and how the decision to go forward with the library was made.
+
+The TL;DR is:
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (1 2 3)
+1. It's a toolkit to provide elegant ways to manage floating components;
+2. Has a small footprint;
+3. An actual full fledged library instead of just a single component, giving us flexibility going forward.
+#+REVEAL_HTML: <div style="padding-top: 40px"></div>
+
+** [[https://github.com/react-component/tooltip][react-component/tooltip]] vs [[https://github.com/floating-ui/floating-ui][floating-ui/floating-ui]]
+
+Here's some metrics, some more useful than others about both repositories.
+
+| Metric              | tooltip | floating-ui |
+|---------------------+---------+-------------|
+| Stars               |     866 |       22800 |
+| Contributors        |      48 |          63 |
+| Used by             |       ? |    2200000+ |
+| TypeScript coverage |     39% |         80% |
+| Releases            |      21 |         236 |
+
+The important point to take here is that [[https://github.com/react-component/tooltip][react-component/tooltip]] isn't a library, instead, it's just a component with basic CSS and attributes to alter functionality and behaviour.
+
+*** Why Floating UI?
+
+[[https://floating-ui.com/][Floating UI]] as mentioned in the TL;DR is a toolkit to create and manage floating elements, it gives emphasis on working "safely" with these elements, ensuring that they behave properly on all types of inputs and beautifully calculates the position of the cursor with a polygon, essentially a "safe zone" for it, giving us an interface to even detect the overflow of elements.
+
+It's home page drives the point home of it's flexibility and accuracy, it will involve more coding to implement but will hugely improve our development experience and the user's experience in the platform.
+
+#+REVEAL: split
+The library isn't React specific, which is great, but it does supports great React bindings for both React DOM *and* React Native, moreover gives us an extra package which comes with React DOM bindings and interaction primitives to make it easier for us to build components using the library without a lot of boilerplate such as is shown in the example below.
+
+#+begin_src js-jsx
+import { cloneElement, useMemo, useState } from "react";
+import {
+  Placement,
+  offset,
+  flip,
+  shift,
+  autoUpdate,
+  useFloating,
+  useInteractions,
+  useHover,
+  useFocus,
+  useRole,
+  useDismiss
+} from "@floating-ui/react-dom-interactions";
+import { motion, AnimatePresence } from "framer-motion";
+import mergeRefs from "react-merge-refs";
+
+interface Props {
+  label: string;
+  placement?: Placement;
+  children: JSX.Element;
+}
+
+export const AnimatedTooltip = ({
+  children,
+  label,
+  placement = "top"
+}: Props) => {
+  const [open, setOpen] = useState(false);
+
+  const { x, y, reference, floating, strategy, context } = useFloating({
+    placement,
+    open,
+    onOpenChange: setOpen,
+    middleware: [offset(5), flip(), shift({ padding: 8 })],
+    whileElementsMounted: autoUpdate
+  });
+
+  const { getReferenceProps, getFloatingProps } = useInteractions([
+    useHover(context, { restMs: 40 }),
+    useFocus(context),
+    useRole(context, { role: "tooltip" }),
+    useDismiss(context)
+  ]);
+
+  // Preserve the consumer's ref
+  const ref = useMemo(() => mergeRefs([reference, (children as any).ref]), [
+    reference,
+    children
+  ]);
+
+  return (
+    <>
+      {cloneElement(children, getReferenceProps({ ref, ...children.props }))}
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.85 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ type: "spring", damping: 20, stiffness: 300 }}
+            ref={floating}
+            className="Tooltip"
+            style={{
+              position: strategy,
+              top: y ?? 0,
+              left: x ?? 0
+            }}
+            {...getFloatingProps()}
+          >
+            {label}
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </>
+  );
+};
+#+end_src

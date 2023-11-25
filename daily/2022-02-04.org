@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f500bbc1-372b-4f67-ac9b-1795aeba2d23
+:END:
+#+title: 2022-02-04
+#+filetags: :daily:
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:57 | 12:24 - 13:30 | 17:50 |  -00:13 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

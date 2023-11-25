@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c9818ce7-f64a-4cce-9140-8c194fa2f5aa
+:END:
+#+title: Monorepo
+
+* Overview
+The term "monorepo" refers to repositories of code which contain the code of an entire application's architecture; instead of diving everything in different repositories you have all projects in one large repository but generally secluded using a tool like [[id:b2d28407-ead2-4f4a-b7ce-4ce10da412af][NX]] to manage each of these /mini/ repositories.
+
+Each project within this "monorepo" is able to interact with other projects but not manipulate, the intent is to have a better overview of the product and be able to manage it more efficienly in larger teams.

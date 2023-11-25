@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4911ea63-d169-43f9-b8b8-cc2206046606
+:END:
+#+title: What parents owe me - Feb 2023
+#+filetags: :finances:
+
+* Mom
+** KFC (01-14)
+132.30
+** FNP (01-15)
+80
+* Dad
+** Bank transfer (01-16)
+914.12

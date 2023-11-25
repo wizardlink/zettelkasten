@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       cb0ceb8f-40d4-4b21-9612-5ec8a07e3175
+:END:
+#+title: 2021-09-15
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want the today's highlight to be?
+I want to meditate today, it has been a while that I don't.
+
+** Daily affirmations
+*** What's on your mind?
+
+* Tasks [50%]
+- [ ] Work on the Ixtus Devices Website
+- [X] Task related to the suspension of "[[https://sgo.basis.com.br/browse/SADPE202021-465][Pregões Eletrônicos]]"
+
+
+* Input
+- Watched [[youtube:rYsghmH5Fno][How I Organise My Day | Roam Research]]
+
+* Output
+
+* Evening Reflection
+** How are you feeling today?
+I felt unfulfilled today, I could not focus for long on a single task at hand due to the large quantity of calls and messages under way. When I took time to breath and came back ready for it, messages and calls pilled up.
+
+Today I also could not continue the Ixtus website for Chris, which, saddens me. I have been highly unmotivated off work, it has been rough to get anything done.
+
+** What could you have done better?
+Prepared myself better for the day, I struggle to maintain control and focus of/on my priorities at hand. I had my mother's birthday today, but, I could have still worked on the Ixtus website, yet, I decided to go play and enjoy myself instead.
+
+** Amazing things that happend
+Nothing special happened today, other than my mother's birthday.
+
+** What did you learn today?
+That carbon dioxide "sucking" factories exist, [[youtube:7nDZg5MzHAY][reference]].
+
+How [[wikipedia:Zettelkasten][Zettelkasten]] works as well as the ~org-roam-dailies~ works.

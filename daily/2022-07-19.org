@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       eecee9d5-060b-417b-a058-6f5e5f471efc
+:END:
+#+title: 2022-07-19
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My perception that I am in the right path but small steps need to be done, because I could be beating myself up right now for leaving bed at the usual time... But I ended up leaving just a tiny bit earlier, brushing my teeth and getting on with my day. It's a minuscule of a change, but big enough to see the impact, it's been only two days and I am already making progress.
+** What do you want today's highlight to be?
+To finish today's [[id:04a8eb6a-0f59-4309-a53d-5dfa1d0f47b9][routine]], it is important to me that I do what must be done so I can get healthier and happier.
+** What's on your mind?
+I'm worried about [[id:5808bb59-52cf-4ab6-a2fa-48b268362f86][hydractify]] in general, I had a lovely conversation with /CaptMU/ (a member of our community) who said they have fondness for our community and would be glad to put some effort into trying to revive it, I want to see how many more would be interested in such. This could be interesting and make me care about it all once more, or perhaps it may fail once and for all, it's too early to say.
+* Tasks
+** KILL Work on my pending /ESLint/ task for the new repository
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+I was nauseous, feeling really damn sick. Couldn't work on anything so I ended up just watching videos and playing things, I did work a little on [[id:8b605e4e-f9e7-4f03-bf4e-8058976aaeae][Akita Neru]] though.
+** What could you have done better?
+Not much, I was sick and my health comes first in the end, there's no negotiation over that.
+** Amazing things that happened
+Just the general interaction with my work mates, they're wonderful people and care about me first and make sure to put emphasis that I can do what I have to do whenever I want to as long as the sprint goals are achieved within it.
+** What did you learn today?
+That I need to know my limits and respect my immediate necessities sometimes too, even if it may harm slightly the longer goal.
+
+I just wish I had more to say or the time to, but it's 01:19 and I need to sleep.

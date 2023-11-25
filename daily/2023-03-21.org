@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       aa5f7318-4157-4e10-9c2c-3f62951dfd3e
+:END:
+#+title: 2023-03-21
+#+filetags: :daily:
+
+* Tasks
+** DONE Go to the post office agency and send my broken /hitbox/ [2/2]
+*** [X] Send them a message about the broken button and the need to /CNC/ the thumb button
+*** [X] Pay for the box and shipping fees
+** DONE Talk to Douglas about my contract of experience [1/1]
+*** [X] Investigate first when did the e-mail migration happened.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

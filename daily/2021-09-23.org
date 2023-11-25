@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       2123c143-215c-44d8-aa28-8c9dbccf4ff6
+:END:
+#+title: 2021-09-23
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My curiosity.
+** What do you want today's highlight to be?
+Focus properly.
+** What's on your mind?
+Nim is such an intriguing language, I feel like this will be a fun trip.
+* Tasks [50%]
+- [ ] Do at least one test from University.
+- [X] Create extra commands for accessing notes from yesterday and tomorrow.
+* Work hours
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:07 | 11:46 - 12:46 | 17:10 | + 00:05 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Unusually accomplished.
+** What could you have done better?
+Paid better attention.
+** Amazing things that happened
+[[youtube:dG9fAtmYdlM][Nintendo Direct]]!
+** What did you learn today?
+Spiders can see sound!

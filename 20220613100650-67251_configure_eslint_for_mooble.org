@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       6df5e61f-2848-4bc6-93e1-52ff61e74500
+:END:
+#+title: 67251 - Configure ESLint for Mooble
+#+filetags: :cyncly:work:
+* References
+- [[id:5b7966be-2a68-48c3-b9d1-25864e6b3ce7][Mooble]]
+
+* Changes
+I'm using a ~.eslintrc.js~ instead of a ~.json~ so we can add comments and make it easier for others to maintain even if they don't know ESLint.
+
+** /ESLint/
+*** ~curly~
+- ~"error"~ -> ~["error", "multi-line"]~
+
+I changed to this so it doesn't generates errors when doing in-line commands, such as:
+#+begin_src typescript
+if (true) console.log(0);
+#+end_src
+
+This would otherwise be an error and forced to be converted to:
+#+begin_src typescript
+if (true) {
+    console.log(0);
+}
+#+end_src
+** ~@typescript-eslint~
+*** ~comma-dangle~
+- ~["error"]~ -> ~"warn'~
+
+Changed so it isn't obligatory, since dangling commas can be useful in certain moments; if they are meant to stay dangling, the file should disable this rule entirely or use the ~only-multiline~ option, like putting this on top of a file:
+
+#+begin_src typescript
+/* eslint @typescript-eslint/comma-dangle: ['error', 'only-multiline'] */
+// OR
+/* eslint-disable @typescript-eslint/comma-dangle */
+#+end_src
+*** ~quotes~
+- ~["error", "single"]~ -> ~["error", "single", { avoidEscape: true }]~
+
+Added the ~avoidEscape~ option so we can use double quotes whenever the string has multiple single quotes inside, avoiding multiple escape sequences.

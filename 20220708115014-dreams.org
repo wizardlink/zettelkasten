@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9f29e5c2-8fc2-46f2-b906-b7f493ba6f93
+:END:
+#+title: Dreams
+#+filetags: :reference:
+
+This is a reference card for all my dreams.

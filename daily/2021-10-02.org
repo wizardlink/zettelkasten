@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       3b960b20-5735-4571-b1dd-477643b4b6ee
+:END:
+#+title: 2021-10-02
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The memories I preserve.
+** What do you want today's highlight to be?
+Ground Branch with the boys.
+** What's on your mind?
+I gotta figure out a way to trick my mind into focusing.
+* Tasks
+- [ ] Do the rest of the tests for University
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+| FREE  | FREE  | FREE | + 00:00 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

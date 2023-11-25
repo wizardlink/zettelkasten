@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       ea62691d-001f-466c-a8e0-08caf27365e9
+:END:
+#+title: December first half sprint demo
+#+filetags: :demo:work:cyncly:
+
+#+REVEAL_INIT_OPTIONS: width:1400, height:1000, margin: 0.1, minScale:0.2, maxScale:2.5, transition:'convex'
+#+REVEAL_HLEVEL: 2
+#+REVEAL_PLUGINS: (markdown print-pdf)
+#+REVEAL_THEME: night
+#+REVEAL_TITLE_SLIDE: <h2>Missing French i18n</h2>
+
+* Overview
+Main goals of bug [[https://dev.azure.com/2020Development/IS7/_workitems/edit/501039/][501039]]:
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (1 2 3)
+1. Find text yet to be translated;
+2. Execute necessary adaptations for proper translation;
+3. Add the missing resources.
+
+* The adaptations made
+To reach this goal we've touched:
+
+| Files | Added | Deleted |
+|-------+-------+---------|
+|    30 |   809 |     567 |
+|     9 |   689 |     625 |
+|     3 |    31 |      31 |
+|     5 |    28 |      33 |
+
+#+BEGIN_COMMENT
+|-------+-------+---------|
+|    47 |  1557 |    1256 |
+#+TBLFM: $1=vsum(@2$1..@5$1)::$2=vsum(@2$2..@5$2)::$3=vsum(@2$3..@5$3)
+#+END_COMMENT
+
+For a total of *47* files modified, with *1557* additions and *1256* deletions.
+
+** New helper script
+~yarn checkLocalization~
+
+#+begin_src diff
+--- a/pacakge.json
++++ b/package.json
+@@ -5,7 +5,8 @@
+-    "test": "nx test"
++    "test": "nx test",
++    "checkLocalization": "cd util; node ./comparative.cjs"
+
+#+end_src
+* New defaults
+Now that we have that out of the way...
+
+With these changes we've also fixed bug [[https://dev.azure.com/2020Development/IS7/_workitems/edit/496864/][496864]]
+
+We had some inconsistencies with dimensions across the project, both in English and French - some instances we had width, others length, others we had width in place of depth.
+
+** Dimension defaults
+#+begin_src json
+{
+  "dimensionDefaults": {
+    "depth": {
+      "shorthand": "D",
+      "spoken": "Depth"
+    },
+    "height": {
+      "shorthand": "H",
+      "spoken": "Height"
+    },
+    "width": {
+      "shorthand": "W",
+      "spoken": "Width"
+    }
+  }
+}
+#+end_src
+** Measurement defaults
+#+begin_src json
+{
+  "measurementDefaults": {
+    "centimeter": {
+      "plural": "Centimeters",
+      "shorthand": "cm",
+      "spoken": "Centimeter"
+    },
+    "foot": {
+      "plural": "Feet",
+      "shorthand": "ft",
+      "spoken": "Foot"
+    },
+    "inch": {
+      "plural": "Inches",
+      "shorthand": "in",
+      "spoken": "Inch"
+    },
+    "meter": {
+      "plural": "Meters",
+      "shorthand": "m",
+      "spoken": "Meter"
+    },
+    "millimeter": {
+      "plural": "Millimeters",
+      "shorthand": "mm",
+      "spoken": "Millimeter"
+    }
+  }
+}
+#+end_src

@@ -1,0 +1,3503 @@
+{:blocks (
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [184 48]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Subgroup 1"
+:id "993ca700-859e-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [104 96]
+:fontSize 32
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262672671
+:italic true}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "d99b1390-859e-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [104 160]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262780633
+:italic false}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [106 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ddd6e880-859e-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [104 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262787356
+:italic false
+:text "wizardlink"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "green"
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "xs"
+:fill "green"
+:type "text"
+:size [38 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0f7c1b30-859f-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [112 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262870605
+:italic false
+:text "HEAL"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [92 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "50590690-859f-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [304 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262979751
+:italic false
+:text "Yukimoo"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 5
+:scale [1 1]
+:type "image"
+:assetId "79a0f530-859f-11ee-af11-a13456b50a6f"
+:size [23.043642426052855 23.043642426052855]
+:opacity 1
+:id "79a14350-859f-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [456 168]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263050070
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 6
+:scale [1 1]
+:type "image"
+:assetId "912c06e0-859f-11ee-af11-a13456b50a6f"
+:size [22.438327926927172 22.438327926927172]
+:opacity 1
+:id "912c5500-859f-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [256 168]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263088344
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "xs"
+:fill "red"
+:type "text"
+:size [49 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9c7fa790-859f-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [312 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107093
+:italic false
+:text "POWER"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "yellow"
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "xs"
+:fill "yellow"
+:type "text"
+:size [70 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b8000f50-859f-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [152 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263153211
+:italic false
+:text "QUICKNESS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "xs"
+:fill "blue"
+:type "text"
+:size [32 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c1a4ee90-859f-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [360 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263169758
+:italic false
+:text "DPS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 10
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2e37e260-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [112 224]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238486
+:italic false}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 11
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3452d790-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [112 280]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238676
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 12
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "43a2fa40-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [312 224]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238694
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 13
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "43a2fa41-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [312 280]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238884
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 14
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "48499ef0-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [304 160]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781177
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 15
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "53394db0-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [440 224]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413507
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 16
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5ec93410-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [440 280]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432728
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 17
+:scale [1 1]
+:type "image"
+:assetId "826b5d80-85a0-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "826c6ef0-85a0-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [112 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263492786
+:clipping 0}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 18
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "870ea6d0-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [240 280]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432772
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 19
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8865d260-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [240 224]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413679
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 21
+:scale [1 1]
+:scaleLevel "xs"
+:fill "red"
+:type "text"
+:size [49 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a91ff712-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [512 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107275
+:italic false
+:text "POWER"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 24
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a91ff715-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [512 280]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239066
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 22
+:scale [1 1]
+:scaleLevel "xs"
+:fill "blue"
+:type "text"
+:size [32 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a91ff713-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [560 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263169940
+:italic false
+:text "DPS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 26
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a91ff717-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [640 224]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413689
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 25
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "a91ff716-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [504 160]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781359
+:italic false}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [79 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a91ff710-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [504 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262979941
+:italic false
+:text "Adryan"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 23
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a91ff714-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [512 224]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238876
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 27
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a91ff718-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [640 280]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432910
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 28
+:scale [1 1]
+:type "image"
+:assetId "b185c6a0-85a0-11ee-af11-a13456b50a6f"
+:size [22.29461081070815 22.29461081070815]
+:opacity 1
+:id "b185edb0-85a0-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [656 168]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263572221
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 36
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7c6a517-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [840 280]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263433034
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 34
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "c7c6a515-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [704 160]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781483
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 35
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7c6a516-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [840 224]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413813
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [95 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7c6a510-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [704 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262980075
+:italic false
+:text "Lazerbot"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "#ffb36b"
+:borderRadius 0
+:index 30
+:scale [1 1]
+:scaleLevel "xs"
+:fill "#ffb36b"
+:type "text"
+:size [69 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7c6a511-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [712 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107431
+:italic false
+:text "CONDITION"}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 31
+:scale [1 1]
+:scaleLevel "xs"
+:fill "blue"
+:type "text"
+:size [32 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7c6a512-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [784 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263170164
+:italic false
+:text "DPS"}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 33
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c7c6a514-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [712 280]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239190
+:italic false}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 32
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c7c6a513-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [712 224]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239000
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 37
+:scale [1 1]
+:type "image"
+:assetId "d37fbe50-85a0-11ee-af11-a13456b50a6f"
+:size [25.14330318083421 25.143303180834266]
+:opacity 1
+:id "d37fe560-85a0-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [856 168]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263629025
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 42
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc3509e6-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [1040 224]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413979
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 39
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fc3509e3-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [912 224]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239166
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 41
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "fc3509e5-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [904 160]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781649
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 38
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [61 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc3509e0-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [904 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262980257
+:italic false
+:text "FABA"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 43
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc3509e7-85a0-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [1040 280]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263433200
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 40
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fc3509e4-85a0-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [912 280]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239356
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 60
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [55 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101f4-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [504 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262980003
+:italic false
+:text "Digit"}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 69
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "35810202-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [704 440]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781538
+:italic false}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 64
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101fa-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [640 504]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413744
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 53
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101ed-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [312 560]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238939
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 63
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "358101f9-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [504 440]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781414
+:italic false}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 59
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101f3-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [240 504]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413734
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "pink"
+:borderRadius 0
+:index 48
+:scale [1 1]
+:scaleLevel "xs"
+:fill "pink"
+:type "text"
+:size [63 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101e7-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [352 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107336
+:italic false
+:text "ALACRITY"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 66
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [109 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101fd-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [704 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262980142
+:italic false
+:text "Axel Blaze"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 52
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101ec-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [312 504]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238749
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 44
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [184 48]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Subgroup 2"
+:id "358101e0-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [104 376]
+:fontSize 32
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262672728
+:italic true}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286307041
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 77
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3581020d-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [1056 448]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107934
+:italic false
+:text "???"}}
+:block/updated-at 1700286307041} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 76
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3581020c-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [1040 560]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263433256
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 46
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [85 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101e2-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [104 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262787419
+:italic false
+:text "Yozawa"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 133
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "3581020a-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [904 440]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781704
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 51
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101eb-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [112 560]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238731
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 68
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "35810201-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [712 560]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239245
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 54
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "358101ee-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [304 440]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262781232
+:italic false}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 61
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101f7-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [512 504]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238931
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 74
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "35810209-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [912 560]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239412
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 67
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "35810200-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [712 504]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239055
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 73
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "35810208-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [912 504]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239222
+:italic false}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 57
+:scale [1 1]
+:type "image"
+:assetId "826b5d80-85a0-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "358101f1-85a1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [112 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263492841
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 62
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101f8-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [512 560]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263239121
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286323138
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 72
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "35810207-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [912 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107660
+:italic false
+:text "???"}}
+:block/updated-at 1700286323138} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 75
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3581020b-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [1040 504]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263414035
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 45
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "box"
+:size [184 176]
+:strokeType "line"
+:strokeWidth 1.6
+:opacity 1
+:label ""
+:id "358101e1-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [104 440]
+:fontSize 16
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262780688
+:italic false}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 58
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101f2-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [240 560]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432827
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 50
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "box"
+:size [128 40]
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "358101ea-85a1-11ee-af11-a13456b50a6f"
+:fontWeight 400
+:noFill false
+:isLocked true
+:point [112 504]
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263238541
+:italic false}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "yellow"
+:borderRadius 0
+:index 49
+:scale [1 1]
+:scaleLevel "xs"
+:fill "yellow"
+:type "text"
+:size [70 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101e8-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [112 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263153348
+:italic false
+:text "QUICKNESS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 47
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [138 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101e4-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [304 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262979821
+:italic false
+:text "FairyPopsicle"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 56
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101f0-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [440 560]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432783
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 65
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101fb-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [640 560]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263432965
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 132
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [64 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "35810206-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [904 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262980312
+:italic false
+:text "Magu"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 71
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [47 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "35810204-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [840 560]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263433089
+:italic false
+:text "BOONS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 70
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "35810203-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [840 504]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413868
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 55
+:scale [1 1]
+:scaleLevel "xs"
+:fill ""
+:type "text"
+:size [50 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "358101ef-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked true
+:point [440 504]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263413562
+:italic false
+:text "CONDIS"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 78
+:scale [1 1]
+:type "image"
+:assetId "47ae7af0-85a1-11ee-af11-a13456b50a6f"
+:size [22.493921108279267 22.493921108279267]
+:opacity 1
+:id "47aec910-85a1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [256 448]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263823877
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 79
+:scale [1 1]
+:scaleLevel "xs"
+:fill "blue"
+:type "text"
+:size [32 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "563e5ae0-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [184 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263169872
+:italic false
+:text "DPS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 80
+:scale [1 1]
+:type "image"
+:assetId "6775db30-85a1-11ee-af11-a13456b50a6f"
+:size [23.650159815418988 23.650159815418988]
+:opacity 1
+:id "67762950-85a1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [456 448]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263877691
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "green"
+:borderRadius 0
+:index 81
+:scale [1 1]
+:scaleLevel "xs"
+:fill "green"
+:type "text"
+:size [38 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b7efd0c0-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [312 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700262870876
+:italic false
+:text "HEAL"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286323138
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 82
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e051f340-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [712 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107762
+:italic false
+:text "???"}}
+:block/updated-at 1700286323138} 
+{:block/created-at 1700286323138
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 83
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e1bd1c00-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [856 448]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107734
+:italic false
+:text "???"}}
+:block/updated-at 1700286323138} 
+{:block/created-at 1700286323136
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 84
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e54187d0-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [656 448]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107734
+:italic false
+:text "???"}}
+:block/updated-at 1700286323136} 
+{:block/created-at 1700286323138
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 85
+:scale [1 1]
+:scaleLevel "xs"
+:fill "gray"
+:type "text"
+:size [28 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e8b37d10-85a1-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [512 472]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107732
+:italic false
+:text "???"}}
+:block/updated-at 1700286323138} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 86
+:scale [1 1]
+:type "image"
+:assetId "f7999350-85a1-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "f799e170-85a1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [312 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264118624
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 87
+:scale [1 1]
+:type "image"
+:assetId "56ed9130-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "56ee2d70-85a2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [312 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264278671
+:clipping 0}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 88
+:scale [1 1]
+:type "image"
+:assetId "ae9dd700-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "ae9e2520-85a2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [312 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264425850
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 89
+:scale [1 1]
+:type "image"
+:assetId "bcdc62a0-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "bcdcb0c0-85a2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [336 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264449754
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 90
+:scale [1 1]
+:type "image"
+:assetId "d2923f20-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "d292b450-85a2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [760 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264486486
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 91
+:scale [1 1]
+:type "image"
+:assetId "196ea870-85a3-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "196ef690-85a3-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [760 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264605126
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 92
+:scale [1 1]
+:type "image"
+:assetId "686fb240-85a6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "68700060-85a6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [536 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266026124
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 93
+:scale [1 1]
+:type "image"
+:assetId "ae9dd700-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "edbd8530-85a6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [512 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264425898
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 94
+:scale [1 1]
+:type "image"
+:assetId "f877cc10-85a6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "f8784140-85a6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [336 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266267676
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 95
+:scale [1 1]
+:type "image"
+:assetId "196ea870-85a3-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "ff2f2850-85a6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [560 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264605150
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 96
+:scale [1 1]
+:type "image"
+:assetId "05ae0f70-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "05aeabb0-85a7-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [336 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266289741
+:clipping 0}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 97
+:scale [1 1]
+:type "image"
+:assetId "06ab8240-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "06abd060-85a7-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [536 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266291487
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 98
+:scale [1 1]
+:type "image"
+:assetId "82c400a0-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "82c49ce0-85a7-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [760 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266499743
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 99
+:scale [1 1]
+:type "image"
+:assetId "ae9dd700-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "b6046cc0-85a7-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [712 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264426094
+:clipping 0}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 100
+:scale [1 1]
+:type "image"
+:assetId "686fb240-85a6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "d289cf20-85ac-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [136 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266026290
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 101
+:scale [1 1]
+:type "image"
+:assetId "82c400a0-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "49f6ede0-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [160 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266499899
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 102
+:scale [1 1]
+:type "image"
+:assetId "bcdc62a0-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "4e4adeb0-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [136 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264449790
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 103
+:scale [1 1]
+:type "image"
+:assetId "8c4f2ea0-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "8c4fa3d0-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [160 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269092585
+:clipping 0}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 104
+:scale [1 1]
+:type "image"
+:assetId "9944e690-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "994534b0-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [184 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269114304
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 105
+:scale [1 1]
+:type "image"
+:assetId "9944e690-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "9b81b730-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [384 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269115024
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 106
+:scale [1 1]
+:type "image"
+:assetId "b53c5310-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "b53ec410-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [184 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269161266
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 107
+:scale [1 1]
+:type "image"
+:assetId "b72c3c30-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "b72cd870-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [384 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269164413
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 108
+:scale [1 1]
+:type "image"
+:assetId "dc3855e0-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "dc38cb10-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [248 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269227569
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 109
+:scale [1 1]
+:type "image"
+:assetId "dc3855e0-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "e79c7150-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [448 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269227993
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 110
+:scale [1 1]
+:type "image"
+:assetId "f4cdd2b0-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "f4ce47e0-85ad-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [208 280]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269267882
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 111
+:scale [1 1]
+:type "image"
+:assetId "45a8acf0-85ae-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "45ab6c10-85ae-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [184 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269404114
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 112
+:scale [1 1]
+:type "image"
+:assetId "bab7d720-85b1-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "bab8c180-85b1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [208 304]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700270888378
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 113
+:scale [1 1]
+:type "image"
+:assetId "bab7d720-85b1-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "bc8b3790-85b1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [408 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700270888530
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 114
+:scale [1 1]
+:type "image"
+:assetId "686fb240-85a6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "dd352fa0-85b1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [336 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266026334
+:clipping 0}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 115
+:scale [1 1]
+:type "image"
+:assetId "82c400a0-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "df6d9370-85b1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [360 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266499903
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 116
+:scale [1 1]
+:type "image"
+:assetId "03585ea0-85b2-11ee-af11-a13456b50a6f"
+:size [16.292533110094155 16.292533110094155]
+:opacity 1
+:id "0358d3d0-85b2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [464 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700271010483
+:clipping 0}}
+:block/updated-at 1700286295811} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 117
+:scale [1 1]
+:type "image"
+:assetId "f4cdd2b0-85ad-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "3e299710-85b2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [408 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700269267948
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 118
+:scale [1 1]
+:type "image"
+:assetId "f877cc10-85a6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "4de1a350-85b2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [336 504]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266267870
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "#ffb36b"
+:borderRadius 0
+:index 119
+:scale [1 1]
+:scaleLevel "xs"
+:fill "#ffb36b"
+:type "text"
+:size [69 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e50f8b40-85b5-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [912 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263107470
+:italic false
+:text "CONDITION"}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 120
+:scale [1 1]
+:scaleLevel "xs"
+:fill "blue"
+:type "text"
+:size [32 22]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e6713e20-85b5-11ee-af11-a13456b50a6f"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked true
+:point [984 192]
+:lineHeight 1.2
+:fontSize 10
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700263170263
+:italic false
+:text "DPS"}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295808
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 121
+:scale [1 1]
+:type "image"
+:assetId "f30a3010-85b5-11ee-af11-a13456b50a6f"
+:size [25.670987594864187 25.670987594864187]
+:opacity 1
+:id "f30a5720-85b5-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [1056 168]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700272701437
+:clipping 0}}
+:block/updated-at 1700286295808} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 122
+:scale [1 1]
+:type "image"
+:assetId "196ea870-85a3-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "a4e1fd40-85b6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [960 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264606346
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 123
+:scale [1 1]
+:type "image"
+:assetId "d2923f20-85a2-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "b48e97d0-85b6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [960 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700264486534
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 124
+:scale [1 1]
+:type "image"
+:assetId "c3023d30-85b6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "c302b260-85b6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [984 224]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700273049798
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 125
+:scale [1 1]
+:type "image"
+:assetId "c9ef7680-85b6-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "c9f012c0-85b6-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [984 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700273061422
+:clipping 0}}
+:block/updated-at 1700286295810} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 126
+:scale [1 1]
+:type "image"
+:assetId "54cf8d00-85bf-11ee-af11-a13456b50a6f"
+:size [16.89256314905566 16.892563149055718]
+:opacity 1
+:id "54d46f00-85bf-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [248 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700276730863
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 127
+:scale [1 1]
+:type "image"
+:assetId "60780470-85bf-11ee-af11-a13456b50a6f"
+:size [16.40691947017973 16.406919470179673]
+:opacity 1
+:id "607879a0-85bf-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [264 584]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700276750305
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295807
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 128
+:scale [1 1]
+:type "image"
+:assetId "82c400a0-85a7-11ee-af11-a13456b50a6f"
+:size [16 16]
+:opacity 1
+:id "ae98b5d0-85c1-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [160 560]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700266500491
+:clipping 0}}
+:block/updated-at 1700286295807} 
+{:block/created-at 1700286295809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 129
+:scale [1 1]
+:type "image"
+:assetId "04c47e80-85c2-11ee-af11-a13456b50a6f"
+:size [15.43563211242838 15.43563211242838]
+:opacity 1
+:id "04c4f3b0-85c2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [248 248]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700277885168
+:clipping 0}}
+:block/updated-at 1700286295809} 
+{:block/created-at 1700286295806
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 130
+:scale [1 1]
+:type "image"
+:assetId "04c47e80-85c2-11ee-af11-a13456b50a6f"
+:size [15.43563211242838 15.43563211242838]
+:opacity 1
+:id "0cc830e0-85c2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [448 528]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700277885208
+:clipping 0}}
+:block/updated-at 1700286295806} 
+{:block/created-at 1700286295810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 131
+:scale [1 1]
+:type "image"
+:assetId "04c47e80-85c2-11ee-af11-a13456b50a6f"
+:size [15.43563211242838 15.43563211242838]
+:opacity 1
+:id "0e612060-85c2-11ee-af11-a13456b50a6f"
+:isAspectRatioLocked true
+:isLocked true
+:objectFit "fill"
+:point [248 528]
+:parentId "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:nonce 1700277885216
+:clipping 0}}
+:block/updated-at 1700286295810})
+:pages (
+{:block/uuid #uuid "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6557f24d-e8bf-4dee-91e7-19138b3eedf1"
+:name "hydractify: raid wing 1"
+:bindings 
+{}
+:nonce 1
+:assets [
+{:id "79a0f530-859f-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263048170_0.png"
+:size [160 160]} 
+{:id "912c06e0-859f-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263087657_0.png"
+:size [350 350]} 
+{:id "826b5d80-85a0-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263492384_0.png"
+:size [32 32]} 
+{:id "b185c6a0-85a0-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263571442_0.png"
+:size [350 350]} 
+{:id "d37fbe50-85a0-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263628447_0.png"
+:size [256 256]} 
+{:id "47ae7af0-85a1-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263823373_0.png"
+:size [160 160]} 
+{:id "6775db30-85a1-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700263876658_0.png"
+:size [256 256]} 
+{:id "f7999350-85a1-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264118483_0.png"
+:size [32 32]} 
+{:id "56ed9130-85a2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264278430_0.png"
+:size [32 32]} 
+{:id "ae9dd700-85a2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264425557_0.png"
+:size [32 32]} 
+{:id "bcdc62a0-85a2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264449411_0.png"
+:size [32 32]} 
+{:id "d2923f20-85a2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264485830_0.png"
+:size [32 32]} 
+{:id "196ea870-85a3-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700264604787_0.png"
+:size [32 32]} 
+{:id "686fb240-85a6-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700266025823_0.png"
+:size [32 32]} 
+{:id "f877cc10-85a6-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700266267392_0.png"
+:size [32 32]} 
+{:id "05ae0f70-85a7-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700266289558_0.png"
+:size [32 32]} 
+{:id "06ab8240-85a7-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700266291297_0.png"
+:size [32 32]} 
+{:id "82c400a0-85a7-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700266499419_0.png"
+:size [32 32]} 
+{:id "8c4f2ea0-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269092484_0.png"
+:size [32 32]} 
+{:id "9944e690-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269114104_0.png"
+:size [32 32]} 
+{:id "b53c5310-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269161044_0.png"
+:size [32 32]} 
+{:id "b72c3c30-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269164401_0.png"
+:size [32 32]} 
+{:id "dc3855e0-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269226489_0.png"
+:size [32 32]} 
+{:id "f4cdd2b0-85ad-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269267783_0.png"
+:size [32 32]} 
+{:id "45a8acf0-85ae-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700269403344_0.png"
+:size [32 32]} 
+{:id "bab7d720-85b1-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700270888280_0.png"
+:size [32 32]} 
+{:id "03585ea0-85b2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700271010162_0.png"
+:size [64 64]} 
+{:id "f30a3010-85b5-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700272700765_0.png"
+:size [350 350]} 
+{:id "c3023d30-85b6-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700273049699_0.png"
+:size [32 32]} 
+{:id "c9ef7680-85b6-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700273061276_0.png"
+:size [32 32]} 
+{:id "54cf8d00-85bf-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700276730316_0.png"
+:size [128 128]} 
+{:id "60780470-85bf-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700276749810_0.png"
+:size [128 128]} 
+{:id "04c47e80-85c2-11ee-af11-a13456b50a6f"
+:type "image"
+:src "../assets/image_1700277884489_0.png"
+:size [128 128]}]
+:shapes-index ("993ca700-859e-11ee-af11-a13456b50a6f" "d99b1390-859e-11ee-af11-a13456b50a6f" "ddd6e880-859e-11ee-af11-a13456b50a6f" "0f7c1b30-859f-11ee-af11-a13456b50a6f" "50590690-859f-11ee-af11-a13456b50a6f" "79a14350-859f-11ee-af11-a13456b50a6f" "912c5500-859f-11ee-af11-a13456b50a6f" "9c7fa790-859f-11ee-af11-a13456b50a6f" "b8000f50-859f-11ee-af11-a13456b50a6f" "c1a4ee90-859f-11ee-af11-a13456b50a6f" "2e37e260-85a0-11ee-af11-a13456b50a6f" "3452d790-85a0-11ee-af11-a13456b50a6f" "43a2fa40-85a0-11ee-af11-a13456b50a6f" "43a2fa41-85a0-11ee-af11-a13456b50a6f" "48499ef0-85a0-11ee-af11-a13456b50a6f" "53394db0-85a0-11ee-af11-a13456b50a6f" "5ec93410-85a0-11ee-af11-a13456b50a6f" "826c6ef0-85a0-11ee-af11-a13456b50a6f" "870ea6d0-85a0-11ee-af11-a13456b50a6f" "8865d260-85a0-11ee-af11-a13456b50a6f" "a91ff710-85a0-11ee-af11-a13456b50a6f" "a91ff712-85a0-11ee-af11-a13456b50a6f" "a91ff713-85a0-11ee-af11-a13456b50a6f" "a91ff714-85a0-11ee-af11-a13456b50a6f" "a91ff715-85a0-11ee-af11-a13456b50a6f" "a91ff716-85a0-11ee-af11-a13456b50a6f" "a91ff717-85a0-11ee-af11-a13456b50a6f" "a91ff718-85a0-11ee-af11-a13456b50a6f" "b185edb0-85a0-11ee-af11-a13456b50a6f" "c7c6a510-85a0-11ee-af11-a13456b50a6f" "c7c6a511-85a0-11ee-af11-a13456b50a6f" "c7c6a512-85a0-11ee-af11-a13456b50a6f" "c7c6a513-85a0-11ee-af11-a13456b50a6f" "c7c6a514-85a0-11ee-af11-a13456b50a6f" "c7c6a515-85a0-11ee-af11-a13456b50a6f" "c7c6a516-85a0-11ee-af11-a13456b50a6f" "c7c6a517-85a0-11ee-af11-a13456b50a6f" "d37fe560-85a0-11ee-af11-a13456b50a6f" "fc3509e0-85a0-11ee-af11-a13456b50a6f" "fc3509e3-85a0-11ee-af11-a13456b50a6f" "fc3509e4-85a0-11ee-af11-a13456b50a6f" "fc3509e5-85a0-11ee-af11-a13456b50a6f" "fc3509e6-85a0-11ee-af11-a13456b50a6f" "fc3509e7-85a0-11ee-af11-a13456b50a6f" "358101e0-85a1-11ee-af11-a13456b50a6f" "358101e1-85a1-11ee-af11-a13456b50a6f" "358101e2-85a1-11ee-af11-a13456b50a6f" "358101e4-85a1-11ee-af11-a13456b50a6f" "358101e7-85a1-11ee-af11-a13456b50a6f" "358101e8-85a1-11ee-af11-a13456b50a6f" "358101ea-85a1-11ee-af11-a13456b50a6f" "358101eb-85a1-11ee-af11-a13456b50a6f" "358101ec-85a1-11ee-af11-a13456b50a6f" "358101ed-85a1-11ee-af11-a13456b50a6f" "358101ee-85a1-11ee-af11-a13456b50a6f" "358101ef-85a1-11ee-af11-a13456b50a6f" "358101f0-85a1-11ee-af11-a13456b50a6f" "358101f1-85a1-11ee-af11-a13456b50a6f" "358101f2-85a1-11ee-af11-a13456b50a6f" "358101f3-85a1-11ee-af11-a13456b50a6f" "358101f4-85a1-11ee-af11-a13456b50a6f" "358101f7-85a1-11ee-af11-a13456b50a6f" "358101f8-85a1-11ee-af11-a13456b50a6f" "358101f9-85a1-11ee-af11-a13456b50a6f" "358101fa-85a1-11ee-af11-a13456b50a6f" "358101fb-85a1-11ee-af11-a13456b50a6f" "358101fd-85a1-11ee-af11-a13456b50a6f" "35810200-85a1-11ee-af11-a13456b50a6f" "35810201-85a1-11ee-af11-a13456b50a6f" "35810202-85a1-11ee-af11-a13456b50a6f" "35810203-85a1-11ee-af11-a13456b50a6f" "35810204-85a1-11ee-af11-a13456b50a6f" "35810207-85a1-11ee-af11-a13456b50a6f" "35810208-85a1-11ee-af11-a13456b50a6f" "35810209-85a1-11ee-af11-a13456b50a6f" "3581020b-85a1-11ee-af11-a13456b50a6f" "3581020c-85a1-11ee-af11-a13456b50a6f" "3581020d-85a1-11ee-af11-a13456b50a6f" "47aec910-85a1-11ee-af11-a13456b50a6f" "563e5ae0-85a1-11ee-af11-a13456b50a6f" "67762950-85a1-11ee-af11-a13456b50a6f" "b7efd0c0-85a1-11ee-af11-a13456b50a6f" "e051f340-85a1-11ee-af11-a13456b50a6f" "e1bd1c00-85a1-11ee-af11-a13456b50a6f" "e54187d0-85a1-11ee-af11-a13456b50a6f" "e8b37d10-85a1-11ee-af11-a13456b50a6f" "f799e170-85a1-11ee-af11-a13456b50a6f" "56ee2d70-85a2-11ee-af11-a13456b50a6f" "ae9e2520-85a2-11ee-af11-a13456b50a6f" "bcdcb0c0-85a2-11ee-af11-a13456b50a6f" "d292b450-85a2-11ee-af11-a13456b50a6f" "196ef690-85a3-11ee-af11-a13456b50a6f" "68700060-85a6-11ee-af11-a13456b50a6f" "edbd8530-85a6-11ee-af11-a13456b50a6f" "f8784140-85a6-11ee-af11-a13456b50a6f" "ff2f2850-85a6-11ee-af11-a13456b50a6f" "05aeabb0-85a7-11ee-af11-a13456b50a6f" "06abd060-85a7-11ee-af11-a13456b50a6f" "82c49ce0-85a7-11ee-af11-a13456b50a6f" "b6046cc0-85a7-11ee-af11-a13456b50a6f" "d289cf20-85ac-11ee-af11-a13456b50a6f" "49f6ede0-85ad-11ee-af11-a13456b50a6f" "4e4adeb0-85ad-11ee-af11-a13456b50a6f" "8c4fa3d0-85ad-11ee-af11-a13456b50a6f" "994534b0-85ad-11ee-af11-a13456b50a6f" "9b81b730-85ad-11ee-af11-a13456b50a6f" "b53ec410-85ad-11ee-af11-a13456b50a6f" "b72cd870-85ad-11ee-af11-a13456b50a6f" "dc38cb10-85ad-11ee-af11-a13456b50a6f" "e79c7150-85ad-11ee-af11-a13456b50a6f" "f4ce47e0-85ad-11ee-af11-a13456b50a6f" "45ab6c10-85ae-11ee-af11-a13456b50a6f" "bab8c180-85b1-11ee-af11-a13456b50a6f" "bc8b3790-85b1-11ee-af11-a13456b50a6f" "dd352fa0-85b1-11ee-af11-a13456b50a6f" "df6d9370-85b1-11ee-af11-a13456b50a6f" "0358d3d0-85b2-11ee-af11-a13456b50a6f" "3e299710-85b2-11ee-af11-a13456b50a6f" "4de1a350-85b2-11ee-af11-a13456b50a6f" "e50f8b40-85b5-11ee-af11-a13456b50a6f" "e6713e20-85b5-11ee-af11-a13456b50a6f" "f30a5720-85b5-11ee-af11-a13456b50a6f" "a4e1fd40-85b6-11ee-af11-a13456b50a6f" "b48e97d0-85b6-11ee-af11-a13456b50a6f" "c302b260-85b6-11ee-af11-a13456b50a6f" "c9f012c0-85b6-11ee-af11-a13456b50a6f" "54d46f00-85bf-11ee-af11-a13456b50a6f" "607879a0-85bf-11ee-af11-a13456b50a6f" "ae98b5d0-85c1-11ee-af11-a13456b50a6f" "04c4f3b0-85c2-11ee-af11-a13456b50a6f" "0cc830e0-85c2-11ee-af11-a13456b50a6f" "0e612060-85c2-11ee-af11-a13456b50a6f" "35810206-85a1-11ee-af11-a13456b50a6f" "3581020a-85a1-11ee-af11-a13456b50a6f")}}
+:block/journal? false
+:block/updated-at 1700286323136
+:block/created-at 1700262477276
+:block/type "whiteboard"
+:block/name "hydractify: raid wing 1"
+:block/original-name "Hydractify: Raid Wing 1"})}

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3207ed3c-b513-4d4a-821b-b2e78e06e837
+:END:
+#+title: 2022-02-21
+#+filetags: :daily:
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+SCHEDULED: [2022-02-21 Mon]
+- [ ] Check the /Ulife/ platform from my university, this is when the semester starts.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:01 | 12:44 - 14:10 | 18:40 |  +00:13 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

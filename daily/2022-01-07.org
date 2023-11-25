@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       dc5679e8-470b-41c1-8a87-6c1e97b9bda1
+:END:
+#+title: 2022-01-07
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:30 | 13:51 - 15:00 | 17:30 |  -00:09 |
+
+Gotta talk about finding ways for us to better replicate issues in our database, perhaps getting approval to mirror *some* data from production.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

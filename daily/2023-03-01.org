@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f2803bc8-ac57-41af-b290-acd2fc443ad4
+:END:
+#+title: 2023-03-01
+#+filetags: :daily:
+
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Pretty good, I was quite productive while pair programming with Lucas. Slowly getting back in my feet, I hope that soon I will be studying and working in my personal projects again.
+** What could you have done better?
+Woke up earlier for sure, other than that, nothing really. At least considering the current circumstances.
+** Amazing things that happened
+I have done some pair programming with Lucas and it has been immensely productive, it will help me get back in track by quite a bit.
+** What did you learn today?
+Just got reminded of how fortunate I am.

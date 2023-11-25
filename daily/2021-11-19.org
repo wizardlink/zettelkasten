@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f8012975-1828-4957-860b-7c7f68c90ab1
+:END:
+#+title: 2021-11-19
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+SCHEDULED: [2021-11-19 Fri]
+- [X] Fill my finances [[org:finances/2021/november.org][file]].
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:02 | 11:30 - 13:30 | 19:00 | - 00:02 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

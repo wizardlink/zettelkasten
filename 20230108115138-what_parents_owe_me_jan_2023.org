@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9f2e4336-b768-4ee4-9a65-69854d903b09
+:END:
+#+title: What parents owe me - Jan 2023
+#+filetags: :finances:
+* Mom
+** Pizza (01-03)
+68.25 | 50% of 136.50
+** Vans
+165   | 50% of 330
+** Hamburger (12-08)
+32.85 | 50% of 65.70
+** Pizza (12-27)
+70.25 | 50% of 140.50

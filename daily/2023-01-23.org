@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       37b8bbca-5acd-4050-9f71-2d07f245b3fc
+:END:
+#+title: 2023-01-23
+#+filetags: :daily:
+
+* Input
+* Output
+** [[id:90a04714-48d8-4e81-9f5d-dc72f5977ace][Ledger CLI]]
+** [[id:c474731a-d9d1-4f88-a212-1689740a927e][Veloren]]
+** [[id:89df9be5-d116-42f5-9e54-690eb08d5e24][GLSL]]
+** [[id:6a419b75-2481-45b9-b6f9-797c44096dbb][LibriVox - Free public domain audio books]]
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

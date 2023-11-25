@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c474731a-d9d1-4f88-a212-1689740a927e
+:END:
+#+title: Veloren
+
+* How it was made
+There is [[youtube:bT2SeYXpQm8][this amazing talk]] on how they made the game using [[id:7002a29a-fcd6-42ba-b437-6e79b3600ac0][Rust]] which I am very interested on.

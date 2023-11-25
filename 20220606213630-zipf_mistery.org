@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       3c72b72d-8671-4269-8ccd-fb19293c9b90
+:END:
+#+title: Zipf Mistery

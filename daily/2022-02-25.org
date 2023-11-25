@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       44beb789-de85-4724-806f-5eb860415d34
+:END:
+#+title: 2022-02-25
+#+filetags: :daily:
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:04 | 12:15 - 13:34 | 18:27 |  +00:04 |
+
+** Helps
+1. Daniel and Felipe
+2. Marcelo
+3. Cielo and Thiago
+4. Daniel and Felipe (same thing)
+** GIT maintenance
+Worked out on the branches updating all of them and deleting unused ones.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

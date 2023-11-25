@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       741d9e28-c8e0-428e-9c3c-fd27a6503d15
+:END:
+#+title: 2021-12-20
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My perception, as usual.
+** What do you want today's highlight to be?
+Not sure honestly, just some peace of mind.
+** What's on your mind?
+My eyes hurt from reading manga all night. :')
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:15 | 12:37 - 13:40 | 17:10 |  -00:08 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

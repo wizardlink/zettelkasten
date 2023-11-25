@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a4279a82-42e6-475b-987d-54c418a2d84c
+:END:
+#+title: 2021-10-17
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The job I have.
+** What do you want today's highlight to be?
+Write some code for Ixtus' API
+** What's on your mind?
+Man... Finding an apartment will be a pain in the ass, but once I do, it will be the best move I've done in a while.
+* Tasks [0%]
+- [ ] Host the "Just Act Natural" event
+- [ ] Write some stub code for the API, primarily for the login
+* Input
+- [[https://youtu.be/JQfXd1YlkS4][The Man Who Lived in an Airport for 18 Years]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

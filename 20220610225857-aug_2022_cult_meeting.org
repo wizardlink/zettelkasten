@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       eba83991-3177-415d-b051-c2abeacd9a1a
+:END:
+#+title: Aug 2022 Cult meeting
+#+filetags: :hydractify:
+* References
+- [[id:5808bb59-52cf-4ab6-a2fa-48b268362f86][Hydractify]]
+
+* Table of Content :TOC:
+- [[#references][References]]
+- [[#tournament][Tournament]]
+- [[#campaign][Campaign]]
+  - [[#rust][Rust]]
+  - [[#ark][ARK]]
+- [[#organization][Organization]]
+
+* Tournament
+Need to talk about the next tournament we'll hold, the best contender at the moment is Splitgate.
+
+- *Decided on Splitgate for September*
+
+* Campaign
+We gotta decide what will be the next campaign from the poll made in the 3rd.
+
+The current winner is: *Rust*; followed by *ARK*.
+
+** Rust
+Rust is a survival game with procedural generated maps, including underground and underwater facilities. The game has cooperative mechanics but it's more centered around combat than cooperation.
+
+*** Cons
+1. Lack of a higher goal.
+2. Focus on player versus player combat.
+3. Steep learning curve.
+4. Needs plugins to make it "sane" for a more RP focused server.
+
+** ARK
+ARK is also a survival game with procedural generated maps, focused on a more fantasy style setting with prehistoric animals and equipment.
+
+*** Cons
+1. Lack of a higher goal.
+2. Focus on a player versus player combat.
+3. Steep learning curve.
+
+* Organization
+Currently we have a big problem in terms of organization, nothing is clear on how we operate and what we have to do, as well, lacking deadlines and commitment.

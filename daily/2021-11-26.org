@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f3af9191-fc89-4e10-87a7-32232639f1e8
+:END:
+#+title: 2021-11-26
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-11-26 Fri]
+- [X] Talk to space to move all our current funds to my paypal.
+* Work
+| Enter | Lunch          |  Left | Balance |
+|-------+----------------+-------+---------|
+| 08:50 | 12:54  - 14:00 | 17:40 | - 00:16 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

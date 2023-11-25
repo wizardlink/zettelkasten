@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       d9582c9d-4681-452e-aedb-b13fce7d135b
+:END:
+#+title: 2022-01-04
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:30 | 13:01 - 14:10 | 17:40 |  +00:01 |
+* Input
+** [[youtube:WqYmdDNzb-A][Advanced Learning Technique: Progress Recognition]]
+** [[youtube:WAGRkngJe_Q][The Hidden Gem of PS2 Boxing Games (Hajime no Ippo 2: Victorious Road)]]
+** [[youtube:V2m4Bml6i4Y][Why should you wear toe spacers?]]
+** [[youtube:FJSI7QTAt_o][Five YouTubers. Five games. $10,000. ⋮ Money: the full series]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

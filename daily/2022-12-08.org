@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       01f60f84-6f83-44c6-921e-45e811956ef7
+:END:
+#+title: 2022-12-08
+#+filetags: :daily:
+
+* Tasks
+** DONE Eventually install & play CONTROL again
+* Input
+* Output
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

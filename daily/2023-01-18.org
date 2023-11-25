@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9c860ffc-a60a-45db-aa12-c467fe7f8d58
+:END:
+#+title: 2023-01-18
+#+filetags: :daily:
+
+* Tasks
+** DONE Take a look into the bugs Pablo gave me.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

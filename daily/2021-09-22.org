@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       7084afa2-b71f-4510-8dbf-cb966b6f2f9d
+:END:
+#+title: 2021-09-22
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+For having a stable job.
+** What do you want today's highlight to be?
+Completing all my tasks.
+** What's on your mind?
+I need to get a grip of things and focus on what I value to be important, not what I value might give little help to my mental state.
+* Tasks [75%]
+- [X] Write a simple program in [[https://nim-lang.org/][nim-lang]].
+- [ ] Do at least one test from University.
+- [X] Talk about the end of Rust.
+- [X] E-mail HumbleBundle support to check out why we are again not receiving e-mails in ~community@hydractify.org~.
+* Work hours
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:11 | 12:54 - 14:06 | 17:22 | - 00:01 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Accomplished but like an idiot for staying up 'til 3AM.
+** What could you have done better?
+Focused more on my tasks, I was too distracted with media.
+** Amazing things that happened
+I learned more about nim... And I'm in love.
+** What did you learn today?
+I learned about nim... Like I mentioned.

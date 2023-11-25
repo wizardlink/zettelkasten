@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9394236a-79e9-4e61-aff1-33e6d61efc79
+:END:
+#+title: 2021-11-27
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-11-27 Sat]
+- [X] Fill my work hours of the month.
+- [X] Decide whether I buy the rig or not.
+- [X] Do my podcast's first episode (Beneath the Mask).
+- [X] Do the tasks from the [[org:../Roam/daily/2021-11-19.org][19th]]
+- [X] [[org:study/plan.org::Current study plan][Study]]
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+
+No work today.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

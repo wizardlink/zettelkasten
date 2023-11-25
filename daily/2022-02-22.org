@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       048b93e5-66aa-4964-a190-a08301a147d9
+:END:
+#+title: 2022-02-22
+#+filetags: :daily:
+* Morning Journal
+** What are you grateful for?
+How analytical I am.
+** What do you want today's highlight to be?
+I want to do something productive today, specifically, regarding my community.
+** What's on your mind?
+I need to focus on what's important to me, my projects and study.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:07 | 12:00 - 15:00 | 20:00 | - 00:07 |
+* Input
+** [[youtube:KoBAY-gSk9U][The Crossover Fighter That Failed To Deliver - Rise And Fall Of Jump Force]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

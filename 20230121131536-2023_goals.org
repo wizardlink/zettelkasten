@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b949f3a5-2e7e-4372-b467-fb299c23448e
+:END:
+#+title: 2023 goals
+#+filetags: :goal:
+
+It would be interesting to later create notes for each of these goals as to keep track of, and detail them. Perhaps it would also be useful as to see what I did right, wrong and what I have learned from it.
+
+* Short term
+1. [ ] Meditate.
+2. [ ] A month with ~org-roam~ daily notes.
+* Mid term
+1. [ ] Read 5 books.
+2. [ ] New Kanna version
+3. [ ] An open source project
+   /Probably ~vim-vixen~ re-write./
+* Long term
+1. [ ] Take care of my health.
+2. [ ] Become a mid level employee.

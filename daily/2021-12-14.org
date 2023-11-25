@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       818fcad1-a024-4a25-a978-72234d61d0b1
+:END:
+#+title: 2021-12-14
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The fact that I will not stand for other's ideals when I know they are warped.
+** What do you want today's highlight to be?
+Study and finished all my tests if possible.
+** What's on your mind?
+I need to stop slouching and sit properly.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:10 | 12:09 - 13:10 | 17:20 |  +00:09 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

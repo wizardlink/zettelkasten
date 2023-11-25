@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       5c5bf464-1f6f-42fb-ae50-3e99d6bd4e9c
+:END:
+#+title: 2022-12-04
+#+filetags: :daily:
+
+* Tasks
+** DONE Check if Hydractify e-mails are working again
+DEADLINE: [2022-12-09 Fri]
+** TODO Create a pull-request to resolve bug [[https://github.com/containers/toolbox/issues/618][618]] for the ~toolbox~ software
+I also want to add a feature with it, so when ~toolbox~ is ran, it carries over the ~PATH~ environment variable - because it only makes sense to do so.
+* Input
+** Learned about pipewire utility commands, namely ~pw-play~
+This is being used in a small script I'm working - I want to play a notification sound whenever a certain time is reached.
+** [[youtube:uOdjo_Do6hM][Overgrowth Open Source Announcement - Wolfire Games]]
+In this I learned about their [[https://www.youtube.com/playlist?list=PL8o9TjNiDQm45hFcfLSstl5nD0N931OV8][amazing playlist]] that follows quite a bit in their development process. Also they made [[https://www.receiver2.com/][Receiver 2]]!!! I didn't know about that, that's crazy.
+** ~XDG_CURRENT_DESKTOP~ problem with Firefox
+If this environment variable isn't set, you *cannot* share your screen, other things also depend on that and ~sway~ is not setting it properly for some reason.
+** ~toolbox~ is lacking on a way to set an environment variable
+As seen [[https://github.com/containers/toolbox/issues/618][here]], it is still an open issue for some reason and no one... Was bothered by it, so a workaround locally is necessary to be able to have a proper ~PATH~ variable.
+* Output
+** Scripts to be able to open Emacs and LunarVim with proper environment variables
+They can be found in ~/.local/share/scripts - they're pre-pended with "fish"
+* Evening Reflection
+** How are you feeling today?
+Pretty hopeful for the upcoming weeks, things are heading towards a direction I am happy with. Perhaps it is time that my passion flourishes again!
+** What could you have done better?
+Focus on what's ahead of me when my sister arrived from her friend's house - she had just vomitted and they waited for me for like... 5-6 minutes because of my rant with Kodehawa.
+** Amazing things that happened
+I fixed all the issues I had with my editors! I am *so* glad, now I don't have much reason to move out of Silverblue, which is a good thing because the benefits outweigh the problems in many scenarios.
+** What did you learn today?
+That I am not the only one who has gone through what I am, sure, the various combinations I am likely the first, but I will for sure not be the last. I can get through it, I will get through all of it.

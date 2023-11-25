@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       b9ff8806-8d9e-4f8f-9b9d-c15169687da8
+:END:
+#+title: 2021-09-18
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The friends I have and the knowledge I've collected so far.
+** What do you want today's highlight to be?
+My progress in Ixtus.
+** Daily affirmations
+*** What's on your mind?
+I feel like I could be way more knowledgable if I put in the effort to. I have to start reading more books and writing about them.
+* Tasks
+** Ixtus [0%]
+- [ ] Create login page
+- [ ] Create dashboard page
+* Input
+- [[youtube:fXW-QjBsruE][Do Chairs Exist? - Vsauce]]
+- [[wikipedia:Gombe_Chimpanzee_War][The Gombe Chimpanzee War]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+Stressed, once more I am disappointed with my parent's behaviour. They act like children and are as selfish as one. I feel unfilfilled unfortunately, which is mostly due to me waking up late, having to deal with my mom screaming into her microphone to talk and me not working in my tasks.
+** What could you have done better?
+I don't think there is much that could have been done other than maybe looking for a change of pace. Perhaps waking up earlier would have helped, but I am inclined to doubting that.
+** Amazing things that happened
+The first season of [[https://anilist.co/anime/120120/Tokyo-Revengers/][Tokyo Revengers]] has finished, I am throughly impressed with it's end. It feels as if it has been years since a show has had an impactful end, this left me with a bitter sweet taste, indescribable, yet, familiar somehow. One thing that bothers me with animated shows is that they end as if there was nothing else after it, because they're unsure whether a new season will occur, yet it ended with that feeling of wanting explanation to this closure it gave us which was phenomenal to end it all, making me beg for more but feeling satisfied with the place it ended.
+** What did you learn today?
+I learned about the [[wikipedia:Gombe_Chimpanzee_War][The Gombe Chimpanzee War]] in which chimpanzees showed behaviour that humans had in their tribal era, being territorial to the point of waging war against another tribe, resulting in the anihilation of that tribe, many of which end up dying brutally by the hands of these chimpanzee.
+
+Today I also delved into the latest video from [[https://www.youtube.com/c/vsauce1][VSauce]] called [[youtube:fXW-QjBsruE][Do Chairs Exist? - Vsauce]]. I have yet to write a note on it, but, it questions the very principle of what makes objects, objects. Why do we call chairs, well, chairs and when do we know that it's not a chair anymore? This scrapes the very nature of how we define and intersect words which describe things that in the universe, don't have a name, yet have a meaning in our society because we describe an object made of things, that are structured in a certain way and used for a certain purpose, has that name.

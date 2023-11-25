@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       89df9be5-d116-42f5-9e54-690eb08d5e24
+:END:
+#+title: GLSL
+#+filetags: :language:
+
+* Learning
+** http://www.lighthouse3d.com/tutorials/glsl-tutorial/
+** https://www.shadertoy.com
+This I can test in real time and see other people's snippets.

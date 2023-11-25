@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       08cc2d1d-5f81-454d-a2f3-875ed401c8c7
+:END:
+#+title: 2021-09-30
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My commitment.
+** What do you want today's highlight to be?
+Be able to leave work in time.
+** What's on your mind?
+I have been getting better in terms of self control but I still give in too often because I haven't had any consequences.
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:15 | 12:11 - 13:19 | 17:55 | + 00:32 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

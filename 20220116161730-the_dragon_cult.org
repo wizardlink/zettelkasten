@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2bdd6c32-476e-443a-a6d6-1d640323313b
+:END:
+#+title: The Dragon Cult
+
+* What is it
+The Dragon Cult is a community created by me back in 2017 to serve as the support server for Kanna Kobayashi, a Discord application I initially made by myself back in March of the same year.
+- # What is it
+  
+  The Dragon Cult is a community created by me back in 2017 to serve as
+  the support server for Kanna Kobayashi, a Discord application I
+  initially made by myself back in March of the same year.

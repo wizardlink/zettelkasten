@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f97ddde3-776a-4e7e-9a0a-589a3c45b986
+:END:
+#+title: 2022-12-02
+#+filetags: :daily:
+* Tasks
+** DONE Prepare for the demonstration
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

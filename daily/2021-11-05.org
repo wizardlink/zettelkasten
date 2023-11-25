@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0b0d8b8e-8f80-4bf7-b625-d35e99d0662e
+:END:
+#+title: 2021-11-05
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:20 | 11:50 - 13:09 | 16:51 | - 00:48 |
+* Input
+* Output
+Started setting-up samba in my QEMU machine that I use for working.
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

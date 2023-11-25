@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       aa2a061c-b257-4ff6-a111-3fd787f1070d
+:ROAM_ALIASES: e-mail email
+:END:
+#+title: Electronic Mail
+
+* [[wikipedia:Email][What is it]]?
+Electronic mail (email or e-mail) is a method of exchanging messages ("mail") between people using electronic devices. Email was thus conceived as the electronic (digital) version of, or counterpart to, mail, at a time when "mail" meant only physical mail (hence e- + mail). Email later became a ubiquitous (very widely used) communication medium, to the point that in current use, an e-mail address is often treated as a basic and necessary part of many processes in business, commerce, government, education, entertainment, and other spheres of daily life in most countries. Email is the medium, and each message sent therewith is called an email (mass/count distinction).
+* My E-Mails
+** Personal
+*** [[https://mail.proton.me][me@thewizard.link]]
+This is my primary e-mail, my accounts in other services use this account and it's what I give close friends to be able to be in contact with me.
+*** [[https://mail.proton.me][contact@thewizard.link]]
+This is my public e-mail, this is so businesses and people looking for me in the internet can get direct contact with me.
+*** [[https://mail.google.com/][alexandre.cssilva@gmail.com]]
+My old primary e-mail, some accounts may still use it but all important ones will already be in the new primary e-mail.
+** Services
+*** [[https://mail.proton.me][news@thewizard.link]]
+E-mail for registering to news services (if needed).
+*** [[https://mail.proton.me][games@thewizard.link]]
+E-mail for registering to gaming services (if needed).
+*** [[https://mail.proton.me][catch@thewizard.link]]
+My catch-all e-mail, everything that is sent to an e-mail that isn't in this list, will end up here if not they're not filtered.
+** Relays
+I'm using https://relay.firefox.com to create e-mail relays to my real e-mails, these are used in place of my real e-mails to register accounts with places I don't trust with my data.
+
+*** Relays to me@thewizard.link
+**** ebc6nvbt6@mozmail.com
+My relay of Brazilian services.
+**** ijjweky7x@mozmail.com
+My relay of Foreign services.
+**** e7xnb5omw@mozmail.com
+Relay of the Prevident service.
+**** qlcinbjtl@mozmail.com
+Relay of the GNDI Easy service.
+**** 1k63r4b8l@mozmail.com
+Dummy relay for services I am obligated to create an account but I have no attachments to.

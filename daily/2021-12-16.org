@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9d89c1fe-4bac-4836-bd94-3530c6ae98d8
+:END:
+#+title: 2021-12-16
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:20 | 13:09 - 14:10 | 17:30 |  +00:09 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

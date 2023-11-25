@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       91654cfb-4f98-491e-ac89-a51681c64e3b
+:END:
+#+title: 2022-01-20
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:00 | 13:01 - 14:00 | 18:14 |  +00:15 |
+
+** /PNCP/
+Worked again in the agency job that includes them in the platform through the integration. This is now on hold until we have an answer in regards to how we want to handle the agency political sphere and origin.
+
+Continued to work in the job for the contracts module, made some progress on it but it's far from finished. Currently the things missing is the front-end and the job, in the front-end there's not much to do while the job is bare-bones at the moment.
+** Occurrence [[https://sgo.basis.com.br/browse/SADPE202021-1205][SADPE202021-1205]]
+This occurrence was brought back to my tracking due to a response received by the client, however, this may be invalid as the audio they've sent is in regards to them taking action in their side to check what is wrong there. I will be looking into it again nonetheless.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5136dc30-2e57-4535-b40c-437b5c3fd51c
+:END:
+#+title: 2021-10-21
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My will to push forward and try, despite failing everytime.
+** What do you want today's highlight to be?
+Code some Nim.
+** What's on your mind?
+Man... I know what I gotta do, so let's just fucking do it.
+* Tasks [0%]
+- [ ] Work on Ixtus
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:20 | 12:40 - 13:40 | 17:00 | - 00:19 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

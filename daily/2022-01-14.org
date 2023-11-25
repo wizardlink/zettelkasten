@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       37223fc4-8f66-484e-beec-26d26714bcb4
+:END:
+#+title: 2022-01-14
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+| 08:19 |       |      |         |
+
+** Adjustments in GitLab
+- TIME: 45m
+
+Closed all the milestones that are now over, checked over the opened issues that people didn't close either.
+
+Wrote down the "release notes" for v4.3.1 which are complemented by v4.2 and v4.3.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9f0d4673-b081-45d0-ba5d-3e20e68f72d6
+:END:
+#+title: Bevy
+#+filetags: :tool:
+* References
+- [[id:7002a29a-fcd6-42ba-b437-6e79b3600ac0][Rust]]
+
+* Overview
+[[https://github.com/bevyengine/bevy][Bevy]] is an upcoming [[id:7002a29a-fcd6-42ba-b437-6e79b3600ac0][Rust]] game engine that has been extremely popular, gaining 17 thousand starts in [[id:1900a30d-d0b6-4013-b271-f8e206952540][GitHub]].

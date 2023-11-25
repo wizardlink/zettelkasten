@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       ab9032b6-173f-40b8-befa-c9ba65666f21
+:END:
+#+title: 2021-09-21
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My will to improve.
+** What do you want today's highlight to be?
+Improve my skills in [[https://nim-lang.org/][nim-lang]].
+** Daily affirmations
+*** What's on your mind?
+I really want... To learn nim but also, I gotta DO MY HOMEWORK. I feel like today will be a good one.
+* Tasks [40%]
+- [ ] Write a simple program in [[https://nim-lang.org/][nim-lang]].
+- [ ] Do at least one test from University.
+- [X] Bug AK about her prize bounty.
+- [X] Open the brackets and a way to enter the Splitgate tournament.
+- [ ] Talk about the end of Rust.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Surprisingly light, I feel like today... Was a smooth day, as much as it didn't seem like so.
+** What could you have done better?
+Focused on my priorities better, not letting myself go for peer pressure and desires.
+** Amazing things that happened
+Nothing respectable happened today.
+** What did you learn today?
+That you can create aliases for repository links (like gh: for github.com) in your gitconfig and that projectile expects a .project, .projectile or .git file/directory for it to find the root.

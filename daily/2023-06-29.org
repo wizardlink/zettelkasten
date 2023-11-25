@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8ac81b13-36b0-45b7-93a0-78ac58e47d6b
+:END:
+#+title: 2023-06-29
+#+filetags: :daily:thoughtful:
+
+* Tasks
+** Take a look into how I can properly use the lifetime of a Member in the Hydractify bot.
+* Input
+* Output
+* Morning Journal
+Let's leave this section more open today, it's good to have a mold for things but having it open can also be freeing, perhaps I can start even writing these things down in a journal and then synthesizing them here, or just take a picture and put them here.
+
+Do I really need to keep everything virtual? Sure, I get a lot of organization out of doing that but I don't even follow it to begin with. It's time to start writing again and when I think whatever I wrote is important to synthesize, we'll do so. Then I can finally start writing about complicated things I've always wanted, perhaps I can give a try with the /Zipf/ mystery from /VSauce/. We pick up one of my notepads, start writing whatever sounds interesting from it, keynotes and then research from there.
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

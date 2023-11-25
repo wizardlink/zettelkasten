@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f4c84e9c-b299-46ed-9ef2-24df6522eab8
+:END:
+#+title: 2021-12-29
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks
+- [X] Go at 12:46 finish up my passport.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:30 | 11:54 - 13:12 | 17:20 |  -00:28 |
+* Input
+** [[https://www.youtube.com/watch?v=qEEPyE-nR58&t=500s][Languages and dialects of Italy (with audio for each one)]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       255b89d4-7d62-4662-b57e-6d181992f1ef
+:END:
+#+title: 2022-07-09
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks [0/2]
++ [ ] Ask space to change my user's password
+  - [ ] Set-up Veloren for the Cult
++ [ ] Learn ledger
+  - [ ] Take a look into variable investment in my bank
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

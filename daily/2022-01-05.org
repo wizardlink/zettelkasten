@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       80c3660c-9de5-4dd3-9846-5489e1cdf92b
+:END:
+#+title: 2022-01-05
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My capacity to acknowledge that I need to change to be happier.
+** What do you want today's highlight to be?
+Finish day 2 of Advent of Code!
+** What's on your mind?
+HOT
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:10 | 11:56 - 13:10 | 17:24 |  +00:00 |
+* Input
+** [[youtube:PTrLxkVOShg][Student Pilot Loses Engine | Cockpit View + ATC | by Brian Parsley]]
+** [[youtube:rhJWD2TMiYE][The meters-high mountain of mannequins in the Midlands]]
+** [[youtube:LnzuMJLZRdU][“Hello, world” from scratch on a 6502 — Part 1]]
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

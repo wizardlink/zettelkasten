@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       1b6fd056-af12-4970-be1d-c06777c81463
+:END:
+#+title: 2021-12-09
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The little things, it's important to me.
+** What do you want today's highlight to be?
+Get the VM working.
+** What's on your mind?
+I fucking hate Windows :').
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 07:49 | 12:29 - 13:30 | 17:00 |  +00:09 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

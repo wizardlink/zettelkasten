@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ID:       04a8eb6a-0f59-4309-a53d-5dfa1d0f47b9
+:END:
+#+title: Routine
+
+* Overview
+This is my note for keep track of my daily and intermittent routine with consequences if not completed.
+** Consequences
+If a single task in the day is not completed, I will add to a 250 /BRL/ pot of money that I will be investing into /CBD/, lowering the amount of money I will have to spend in the month. *This can't go over the amount I need to pay the bills* and should carry over to the next month if it exceeds my monthly income.
+* Daily
+** Morning
+*** DONE Brush teeth :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-21 Thu 19:25]
+:END:
+- State "NO"         from ""           [2022-07-21 Thu 19:25]
+- State "KILL"       from ""           [2022-07-20 Wed 18:04]
+- State "YES"        from ""           [2022-07-19 Tue 11:06]
+- State "NO"         from ""       [2022-07-18 Mon 14:33]
+*** DONE Take medications :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-22 Fri 01:11]
+:END:
+- State "YES"        from ""           [2022-07-22 Fri 01:11]
+- State "YES"        from ""           [2022-07-20 Wed 18:04]
+- State "YES"        from ""           [2022-07-19 Tue 11:06]
+- State "YES"        from ""           [2022-07-18 Mon 14:37]
+1. Vitamin B12 and Zinc
+*** DONE Work out :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-22 Fri 01:11]
+:END:
+- State "NO"         from ""           [2022-07-22 Fri 01:11]
+- State "YES"        from ""           [2022-07-20 Wed 09:30]
+- State "YES"        from ""           [2022-07-19 Tue 23:42]
+- State "YES"        from ""           [2022-07-18 Mon 23:18]
+1. Stretch
+2. 5 jumping jacks
+3. 5 push-ups
+4. 5 abdominal
+*** DONE Check my e-mails :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-21 Thu 19:36]
+:END:
+- State "YES"        from ""           [2022-07-21 Thu 19:36]
+- State "YES"        from ""           [2022-07-20 Wed 18:04]
+- State "YES"        from ""           [2022-07-19 Tue 11:24]
+- State "YES"        from ""           [2022-07-18 Mon 14:42]
+*** DONE Write down my daily morning note :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-21 Thu 19:36]
+:END:
+- State "NO"         from ""           [2022-07-21 Thu 19:36]
+- State "YES"        from ""           [2022-07-20 Wed 18:05]
+- State "YES"        from ""           [2022-07-19 Tue 11:07]
+- State "NO"         from ""           [2022-07-18 Mon 18:23]
+At least 25 minutes.
+** Afternoon
+*** DONE Brush teeth after lunch :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-21 Thu 19:36]
+:END:
+- State "NO"         from ""           [2022-07-21 Thu 19:36]
+- State "YES"        from ""           [2022-07-20 Wed 18:05]
+- State "YES"        from ""           [2022-07-19 Tue 20:44]
+- State "YES"        from ""       [2022-07-18 Mon 14:33]
+** Evening
+*** DONE Brush teeth after dinner :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-22 Fri 01:10]
+:END:
+- State "YES"        from ""           [2022-07-22 Fri 01:10]
+- State "YES"        from ""           [2022-07-21 Thu 00:20]
+- State "YES"        from ""           [2022-07-19 Tue 20:43]
+- State "YES"        from ""           [2022-07-18 Mon 23:23]
+** Night
+*** DONE Meditate
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-22 Fri 01:10]
+:END:
+- State "NO"         from ""           [2022-07-22 Fri 01:10]
+- State "NO"         from ""           [2022-07-21 Thu 00:20]
+- State "YES"        from ""           [2022-07-19 Tue 23:42]
+- State "YES"        from ""           [2022-07-18 Mon 23:35]
+*** DONE Write down my daily evening note :routine:
+SCHEDULED: [2022-07-22 Fri +1d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-22 Fri 01:11]
+:END:
+- State "NO"         from ""           [2022-07-22 Fri 01:11]
+- State "YES"        from ""           [2022-07-21 Thu 00:20]
+- State "YES"        from ""           [2022-07-19 Wed 23:59]
+- State "YES"        from ""           [2022-07-18 Mon 23:49]
+At least 25 minutes.
+* Intermittent
+** DONE Study :intermittent:
+SCHEDULED: [2022-07-23 Sat +2d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-21 Thu 19:36]
+:END:
+- State "NO"         from ""           [2022-07-21 Thu 19:36]
+- State "YES"        from ""           [2022-07-19 Tue 23:58]
+** DONE Work on a project :intermittent:
+SCHEDULED: [2022-07-20 Wed +2d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-18 Mon 23:48]
+:END:
+- State "NO"         from ""           [2022-07-18 Mon 23:48]
+** DONE Hang out with family :intermittent:
+SCHEDULED: [2022-07-23 Sat +6d]
+** DONE Tackle something in the back-burner :intermittent:
+SCHEDULED: [2022-07-31 Sun +1w]
+** DONE Take a shower :intermittent:
+SCHEDULED: [2022-07-20 Wed +2d]
+:PROPERTIES:
+:LAST_REPEAT: [2022-07-18 Mon 18:24]
+:END:
+- State "YES"        from ""           [2022-07-18 Mon 18:24]

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       0d1c0af0-5998-4a65-9344-4da37946c96f
+:END:
+#+title: 2021-12-28
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks
+- [X] Check with Pedro about "+Brasil" and whether it makes sense that processes will at some point be originated from it's platform.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 07:09 | 12:27 - 14:00 | 18:18 |  +01:36 |
+
+Changed the table ~PNCP_INTEGRACAO~'s ~nCdAmparoLegal~ column to be null-able.
+#+begin_src sql
+ALTER TABLE
+    PNCP_INTEGRACAO
+ALTER COLUMN
+    nCdAmparoLegal NUMERIC(20) NULL;
+#+end_src
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

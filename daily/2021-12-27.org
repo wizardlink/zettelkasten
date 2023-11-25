@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       df7828f1-45f9-4dcf-a1af-dd5af9491504
+:END:
+#+title: 2021-12-27
+#+filetags: :daily:
+
+* Morning Journal
+Fuck today. :)
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:10 | 12:39 - 13:50 | 17:00 |  -00:21 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

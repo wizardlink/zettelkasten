@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       a6f98384-adac-4522-998f-2f656e959b78
+:END:
+#+title: 2022-07-20
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The comfort I'm able to have.
+** What do you want today's highlight to be?
+Finish what I have to do with the ESLint task for the new repository at work.
+** What's on your mind?
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH, little time in this life I have.
+* Tasks
+** DONE [[id:04a8eb6a-0f59-4309-a53d-5dfa1d0f47b9][Routine]]
+** DONE Work on ESLint task
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Great, not sick anymore and very hopeful for the future, even if I haven't followed my routine as best I wished I did but I've made humongous progress compared to before so I'm proud of that alone.
+** What could you have done better?
+Not much, maybe just sat on my PC instead of staying in bed but it was just too comfy and I was afraid I'd sleep again so forcing me to work and do something even in bed was helpful.
+** Amazing things that happened
+I did a lot of work! I'm happy.
+** What did you learn today?
+That I can do a shit ton of work if I'm having fun and feel like the task is at my control, when I _lose control, I lose motivation_.

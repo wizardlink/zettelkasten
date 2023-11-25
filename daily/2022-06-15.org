@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6741b778-8676-4d0f-9af8-14d4408a990e
+:END:
+#+title: 2022-06-15
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My slow yet gradual improvements; I just can't let myself slip too often.
+** What do you want the today's highlight to be?
+Finish [[id:abac712a-2afd-462e-815e-bcf27e59c9b9][yesterday]]'s tasks.
+** What's on your mind?
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, I need privacy.
+* Tasks
+** DONE [[id:abac712a-2afd-462e-815e-bcf27e59c9b9][Yesterday]]'s tasks.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

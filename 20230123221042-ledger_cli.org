@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       90a04714-48d8-4e81-9f5d-dc72f5977ace
+:END:
+#+title: Ledger CLI
+
+* Resources
+** [[youtube:cjoCNRpLanY][Conquering Your Finances with Emacs and Ledger]]

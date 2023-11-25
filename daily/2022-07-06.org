@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       07deda3e-4ae9-4081-bb4d-c5bfdee45c28
+:END:
+#+title: 2022-07-06
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+My tastes; I'm glad I went down this route in the end of the day because it led me to what I truly enjoy and believe is good.
+** What do you want today's highlight to be?
+I want to sleep early, like, be in bed by 23 and just chill with a game or watch something to fall asleep.
+** What's on your mind?
+MY GOD HOW COULD I WAKE UP AGAIN SO DAMN LATE!? I'm a disaster.
+* Tasks [2/2]
+** DONE Work on the /ESLint/ task
+** KILL Mess around with the /nim/ language
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

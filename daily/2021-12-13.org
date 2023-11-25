@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       1e7f8cc0-dba2-4f55-bdb4-0935c3b0f048
+:END:
+#+title: 2021-12-13
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+The knowledge I've collected over the years.
+** What do you want today's highlight to be?
+Some peace of mind really.
+** What's on your mind?
+Holy shit I hate this uncomfortable feeling in my chest, I want to do too much but can't do even the beginning of them.
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:00 | 15:40 - 16:40 | 17:39 |  +00:39 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

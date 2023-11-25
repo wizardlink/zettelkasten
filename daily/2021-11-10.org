@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a1aa7800-fbb2-4e92-ae28-48d4e74e8ef0
+:END:
+#+title: 2021-11-10
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch | Left | Balance |
+|-------+-------+------+---------|
+| ----- | ----- | ---- | ------- |
+
+I was sick, thus, didn't work.
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c3ac3334-544c-4945-9727-69e200c6b9d9
+:END:
+#+title: Supressing microphone noise in Linux
+#+filetags: :linux:tool:
+I used this plugin for PipeWire called "noise-supression-for-voice", it's both available in Linux and Windows but I am mainly looking for it in Linux. It applies RNNoise in real time by creating a sink to pass the microphone through, it's documentation can be found in it's [[https://github.com/werman/noise-suppression-for-voice][GitHub README]].
+
+The plugin is stored in ~$HOME/Documents/builds/noise-supression-for-voice~.

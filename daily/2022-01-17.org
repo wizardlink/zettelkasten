@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       eec7fa51-2ee7-4084-864f-a1ba5a1d86dd
+:END:
+#+title: 2022-01-17
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 09:00 | 14:04 - 15:10 | 18:25 |         |
+
+** 1257
+Resolvido
+** Auxilio Cielo
+Edital
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?

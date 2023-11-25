@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       7766e319-531b-4d51-92c2-97112f8621a0
+:END:
+#+title: 2021-10-01
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* Tasks
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:13 | 12:09 - 13:10 | 17:14 |  +00:00 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+Really tired.
+** What could you have done better?
+Slept earlier, I would have avoided a really unproductive day, but also, focused on what was truly essential.
+** Amazing things that happened
+I've realised a stupid mistake I've made for a while.
+** What did you learn today?
+Still on about that stupid mistake, I've re-learned, or rather, realised again that functionality is the top priority. I can't make a shape without a core. Will make a note specifically about this.

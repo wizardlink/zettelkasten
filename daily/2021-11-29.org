@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       2ea86f8a-fb82-48cb-a75e-9adb303dcaf6
+:END:
+#+title: 2021-11-29
+#+filetags: :daily:
+
+* Morning Journal
+** What are you grateful for?
+** What do you want today's highlight to be?
+** What's on your mind?
+* DONE Tasks [100%]
+SCHEDULED: [2021-11-29 Mon]
+- [X] Work on the uni activities (A1)
+* Work
+| Enter | Lunch         |  Left | Balance |
+|-------+---------------+-------+---------|
+| 08:00 | 11:51 - 13:00 | 17:15 | + 00:06 |
+* Input
+* Output
+* Evening Reflection
+** How are you feeling today?
+** What could you have done better?
+** Amazing things that happened
+** What did you learn today?
