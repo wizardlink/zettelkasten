@@ -112,3 +112,10 @@ alias:: Wing 1
 			- **The more players in a rift, the faster it closes.**
 	- ## Event 2: Escaping the Spirits
 		- After going through the opened gate, we stack behind the far left pillar and kill all enemies, once they are dead the gate for the second event opens. Go through it and wait on the platform as once we're down, the event starts.
+		- Once it starts our objective is to run from an instant-kill wall of spirits advancing towards us, while we are attacked by enemies and have to close rifts and destroy barriers. When the last barrier is destroyed the instant-kill wall disappears.
+		- ### Strategy
+			- We divide in two groups:
+				- 4 rift-closers; the support players focus on closing rifts then join barrier-killers.
+				  logseq.order-list-type:: number
+				- 6 barrier-killers: All DPS players run through rifts closing them and destroy Ethereal Barriers.
+				  logseq.order-list-type:: number
