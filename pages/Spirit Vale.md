@@ -5,6 +5,7 @@ alias:: Wing 1
 	- [Group set-ups]([[Hydractify: Raid Wing 1]])
 - # Vale Guardian <img src="https://wiki.guildwars2.com/images/d/d0/Vale_Guardian_portrait.png" style="width: 30px;" />
   id:: 6558f21b-f035-4478-8b5d-1b227f73ac8b
+  collapsed:: true
 	- ## Requirements
 	  id:: 6558f239-77c3-4357-bded-ec80e192985b
 		- One <span style="color: #ddbd3b;">tank</span> (Toughness)
@@ -111,6 +112,7 @@ alias:: Wing 1
 			- As time passes, rifts start spawning more quickly so we **close older rifts first**.
 			- **The more players in a rift, the faster it closes.**
 	- ## Event 2: Escaping the Spirits
+	  collapsed:: true
 		- After going through the opened gate, we stack behind the far left pillar and kill all enemies, once they are dead the gate for the second event opens. Go through it and wait on the platform as once we're down, the event starts.
 		- Once it starts our objective is to run from an instant-kill wall of spirits advancing towards us, while we are attacked by enemies and have to close rifts and destroy barriers. When the last barrier is destroyed the instant-kill wall disappears.
 		- ### Strategy
@@ -119,3 +121,21 @@ alias:: Wing 1
 				  logseq.order-list-type:: number
 				- 6 barrier-killers: All DPS players run through rifts closing them and destroy Ethereal Barriers.
 				  logseq.order-list-type:: number
+				- <img src="https://assets.snowcrows.com/uploads/2821db7c-a151-11ec-8fcf-ca7a943c517e/RrEEB9fShli8ITY8S5Od1mlpHX4wUDaZVsJ5rZh5.webp" style="height: 300px; "/>
+					- Barrier 1 has 1 rift.
+					- Barrier 2 has 1 rift too.
+					- Barrier 3 has 2 rifts, **glide over the gap**.
+					- Barrier 4 has 3 rifts.
+		- Once the fourth barrier is destroyed, the event is finished. Run straight, left and then up the stairs ignoring the enemies for the next event in the graveyard.
+	- ## Event 3: Standing on Pressure Plates
+	  collapsed:: true
+		- While being attacked by enemies, players have to stand on 5 pressure plates, to finish the event all pressure plates must be pressed.
+		- For the under-the-stairs pressure plate, wait for players to stand on other pressure plates as this one has the most amount of enemies attacking.
+		- <img src="https://assets.snowcrows.com/uploads/2821db7c-a151-11ec-8fcf-ca7a943c517e/WIlCG6jjaFb3dEDdOcVFk4giZr7WTP3s5LwvKf6G.webp" style="height: 300px;" />
+- # Gorseval <img src="https://wiki.guildwars2.com/images/d/d1/Mini_Gorseval_the_Multifarious.png" style="width: 30px;" />
+  id:: 65636687-1842-43a4-947f-a61bf652c39a
+	- ## Requirements
+		- Updraft Use mastery <img src="https://wiki.guildwars2.com/images/d/d0/Updraft_Use.png" style="width: 30px;" />
+		- A tank as ((65636687-1842-43a4-947f-a61bf652c39a)) attacks the player with the highest toughness <img src="https://wiki.guildwars2.com/images/1/12/Toughness.png" style="width: 15px;" />
+	- ## Strategies
+		-
